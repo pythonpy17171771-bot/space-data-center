@@ -1,0 +1,805 @@
+{
+  "title": "World Space R&D",
+  "source": "OECD Government Budget Allocations for R&D",
+  "dataset": "OECD.STI.STP,DSD_RDS_GOV@DF_GBARD_NABS07,1.0",
+  "indicator": {
+    "code": "NABS03",
+    "label": "Exploration and exploitation of space"
+  },
+  "filters": {
+    "SEO": "NABS03",
+    "UNIT_MEASURE": "XDC",
+    "PRICE_BASE": "Current prices"
+  },
+  "original_unit": "National currency, Millions",
+  "output_unit": "USD million",
+  "oecd_last_updated": "2026-03-31 22:25:37",
+  "exchange_rate_source": "ECB",
+  "exchange_rate_date": "2026-03-31",
+  "exchange_rates": {
+    "EUR": 1.0,
+    "USD": 1.1498,
+    "CNY": 7.9341,
+    "JPY": 183.39,
+    "KRW": 1753.22,
+    "GBP": 0.86833
+  },
+  "countries": [
+    {
+      "code": "USA",
+      "name": "United States",
+      "currency": "USD",
+      "data": [
+        {
+          "year": 2010,
+          "value_original": 8232.0,
+          "currency": "USD",
+          "value_usd_million": 8232.0,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        },
+        {
+          "year": 2011,
+          "value_original": 8658.0,
+          "currency": "USD",
+          "value_usd_million": 8658.0,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        },
+        {
+          "year": 2012,
+          "value_original": 10801.0,
+          "currency": "USD",
+          "value_usd_million": 10801.0,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        },
+        {
+          "year": 2013,
+          "value_original": 10476.0,
+          "currency": "USD",
+          "value_usd_million": 10476.0,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        },
+        {
+          "year": 2014,
+          "value_original": 11228.0,
+          "currency": "USD",
+          "value_usd_million": 11228.0,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        },
+        {
+          "year": 2015,
+          "value_original": 10928.0,
+          "currency": "USD",
+          "value_usd_million": 10928.0,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        },
+        {
+          "year": 2016,
+          "value_original": 12811.0,
+          "currency": "USD",
+          "value_usd_million": 12811.0,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        },
+        {
+          "year": 2017,
+          "value_original": 10187.0,
+          "currency": "USD",
+          "value_usd_million": 10187.0,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        },
+        {
+          "year": 2018,
+          "value_original": 10552.0,
+          "currency": "USD",
+          "value_usd_million": 10552.0,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        },
+        {
+          "year": 2019,
+          "value_original": 10133.0,
+          "currency": "USD",
+          "value_usd_million": 10133.0,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        },
+        {
+          "year": 2020,
+          "value_original": 14206.0,
+          "currency": "USD",
+          "value_usd_million": 14206.0,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        },
+        {
+          "year": 2021,
+          "value_original": 11566.0,
+          "currency": "USD",
+          "value_usd_million": 11566.0,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        },
+        {
+          "year": 2022,
+          "value_original": 14552.6,
+          "currency": "USD",
+          "value_usd_million": 14552.6,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        },
+        {
+          "year": 2023,
+          "value_original": 10920.0,
+          "currency": "USD",
+          "value_usd_million": 10920.0,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        },
+        {
+          "year": 2024,
+          "value_original": 10215.0,
+          "currency": "USD",
+          "value_usd_million": 10215.0,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        },
+        {
+          "year": 2025,
+          "value_original": 10647.0,
+          "currency": "USD",
+          "value_usd_million": 10647.0,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.1498
+        }
+      ]
+    },
+    {
+      "code": "CHN",
+      "name": "China",
+      "currency": "CNY",
+      "data": []
+    },
+    {
+      "code": "JPN",
+      "name": "Japan",
+      "currency": "JPY",
+      "data": [
+        {
+          "year": 2010,
+          "value_original": 243578.0,
+          "currency": "JPY",
+          "value_usd_million": 1527.16,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        },
+        {
+          "year": 2011,
+          "value_original": 239593.0,
+          "currency": "JPY",
+          "value_usd_million": 1502.18,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        },
+        {
+          "year": 2012,
+          "value_original": 235012.0,
+          "currency": "JPY",
+          "value_usd_million": 1473.45,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        },
+        {
+          "year": 2013,
+          "value_original": 223317.0,
+          "currency": "JPY",
+          "value_usd_million": 1400.13,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        },
+        {
+          "year": 2014,
+          "value_original": 215404.0,
+          "currency": "JPY",
+          "value_usd_million": 1350.52,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        },
+        {
+          "year": 2015,
+          "value_original": 215428.0,
+          "currency": "JPY",
+          "value_usd_million": 1350.67,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        },
+        {
+          "year": 2016,
+          "value_original": 218605.325,
+          "currency": "JPY",
+          "value_usd_million": 1370.59,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        },
+        {
+          "year": 2017,
+          "value_original": 267421.155,
+          "currency": "JPY",
+          "value_usd_million": 1676.65,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        },
+        {
+          "year": 2018,
+          "value_original": 274724.719,
+          "currency": "JPY",
+          "value_usd_million": 1722.44,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        },
+        {
+          "year": 2019,
+          "value_original": 277886.468,
+          "currency": "JPY",
+          "value_usd_million": 1742.26,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        },
+        {
+          "year": 2020,
+          "value_original": 327885.403,
+          "currency": "JPY",
+          "value_usd_million": 2055.74,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        },
+        {
+          "year": 2021,
+          "value_original": 330567.464,
+          "currency": "JPY",
+          "value_usd_million": 2072.56,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        },
+        {
+          "year": 2022,
+          "value_original": 317712.002,
+          "currency": "JPY",
+          "value_usd_million": 1991.96,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        },
+        {
+          "year": 2023,
+          "value_original": 475625.41,
+          "currency": "JPY",
+          "value_usd_million": 2982.03,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        },
+        {
+          "year": 2024,
+          "value_original": 467445.242,
+          "currency": "JPY",
+          "value_usd_million": 2930.74,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        },
+        {
+          "year": 2025,
+          "value_original": 404258.755,
+          "currency": "JPY",
+          "value_usd_million": 2534.58,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 183.39
+        }
+      ]
+    },
+    {
+      "code": "KOR",
+      "name": "Korea",
+      "currency": "KRW",
+      "data": [
+        {
+          "year": 2010,
+          "value_original": 319531.2885,
+          "currency": "KRW",
+          "value_usd_million": 209.56,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1753.22
+        },
+        {
+          "year": 2011,
+          "value_original": 265415.6186,
+          "currency": "KRW",
+          "value_usd_million": 174.07,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1753.22
+        },
+        {
+          "year": 2012,
+          "value_original": 295291.3372,
+          "currency": "KRW",
+          "value_usd_million": 193.66,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1753.22
+        },
+        {
+          "year": 2013,
+          "value_original": 382621.7967,
+          "currency": "KRW",
+          "value_usd_million": 250.93,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1753.22
+        },
+        {
+          "year": 2014,
+          "value_original": 448170.4786,
+          "currency": "KRW",
+          "value_usd_million": 293.92,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1753.22
+        },
+        {
+          "year": 2015,
+          "value_original": 507397.3054,
+          "currency": "KRW",
+          "value_usd_million": 332.76,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1753.22
+        },
+        {
+          "year": 2016,
+          "value_original": 544379.2387,
+          "currency": "KRW",
+          "value_usd_million": 357.02,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1753.22
+        },
+        {
+          "year": 2017,
+          "value_original": 512172.2625,
+          "currency": "KRW",
+          "value_usd_million": 335.89,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1753.22
+        },
+        {
+          "year": 2018,
+          "value_original": 434730.1399,
+          "currency": "KRW",
+          "value_usd_million": 285.11,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1753.22
+        },
+        {
+          "year": 2019,
+          "value_original": 383246.7773,
+          "currency": "KRW",
+          "value_usd_million": 251.34,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1753.22
+        },
+        {
+          "year": 2020,
+          "value_original": 400389.6144,
+          "currency": "KRW",
+          "value_usd_million": 262.58,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1753.22
+        },
+        {
+          "year": 2021,
+          "value_original": 433427.0929,
+          "currency": "KRW",
+          "value_usd_million": 284.25,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1753.22
+        },
+        {
+          "year": 2022,
+          "value_original": 576213.8705,
+          "currency": "KRW",
+          "value_usd_million": 377.89,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1753.22
+        },
+        {
+          "year": 2023,
+          "value_original": 752922.5324,
+          "currency": "KRW",
+          "value_usd_million": 493.78,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1753.22
+        },
+        {
+          "year": 2024,
+          "value_original": 879992.3066,
+          "currency": "KRW",
+          "value_usd_million": 577.12,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1753.22
+        }
+      ]
+    },
+    {
+      "code": "DEU",
+      "name": "Germany",
+      "currency": "EUR",
+      "data": [
+        {
+          "year": 2010,
+          "value_original": 1086.4068,
+          "currency": "EUR",
+          "value_usd_million": 1249.15,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2011,
+          "value_original": 1096.6856,
+          "currency": "EUR",
+          "value_usd_million": 1260.97,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2012,
+          "value_original": 1132.31385,
+          "currency": "EUR",
+          "value_usd_million": 1301.93,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2013,
+          "value_original": 1173.303,
+          "currency": "EUR",
+          "value_usd_million": 1349.06,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2014,
+          "value_original": 1189.79,
+          "currency": "EUR",
+          "value_usd_million": 1368.02,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2015,
+          "value_original": 1333.53,
+          "currency": "EUR",
+          "value_usd_million": 1533.29,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2016,
+          "value_original": 1379.133992,
+          "currency": "EUR",
+          "value_usd_million": 1585.73,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2017,
+          "value_original": 1386.92144,
+          "currency": "EUR",
+          "value_usd_million": 1594.68,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2018,
+          "value_original": 1506.13,
+          "currency": "EUR",
+          "value_usd_million": 1731.75,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2019,
+          "value_original": 1526.43,
+          "currency": "EUR",
+          "value_usd_million": 1755.09,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2020,
+          "value_original": 1633.35,
+          "currency": "EUR",
+          "value_usd_million": 1878.03,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2021,
+          "value_original": 1705.363,
+          "currency": "EUR",
+          "value_usd_million": 1960.83,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2022,
+          "value_original": 1805.871,
+          "currency": "EUR",
+          "value_usd_million": 2076.39,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2023,
+          "value_original": 1793.81,
+          "currency": "EUR",
+          "value_usd_million": 2062.52,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2024,
+          "value_original": 1865.62514,
+          "currency": "EUR",
+          "value_usd_million": 2145.1,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        }
+      ]
+    },
+    {
+      "code": "FRA",
+      "name": "France",
+      "currency": "EUR",
+      "data": [
+        {
+          "year": 2010,
+          "value_original": 1776.0,
+          "currency": "EUR",
+          "value_usd_million": 2042.04,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2011,
+          "value_original": 2173.0,
+          "currency": "EUR",
+          "value_usd_million": 2498.52,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2012,
+          "value_original": 1444.8493,
+          "currency": "EUR",
+          "value_usd_million": 1661.29,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2013,
+          "value_original": 1459.1748,
+          "currency": "EUR",
+          "value_usd_million": 1677.76,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2014,
+          "value_original": 1452.093,
+          "currency": "EUR",
+          "value_usd_million": 1669.62,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2015,
+          "value_original": 1491.745,
+          "currency": "EUR",
+          "value_usd_million": 1715.21,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2016,
+          "value_original": 948.357617,
+          "currency": "EUR",
+          "value_usd_million": 1090.42,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2017,
+          "value_original": 672.993187,
+          "currency": "EUR",
+          "value_usd_million": 773.81,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2018,
+          "value_original": 2015.634749,
+          "currency": "EUR",
+          "value_usd_million": 2317.58,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2019,
+          "value_original": 2072.429903,
+          "currency": "EUR",
+          "value_usd_million": 2382.88,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2020,
+          "value_original": 2418.803432,
+          "currency": "EUR",
+          "value_usd_million": 2781.14,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2021,
+          "value_original": 1960.43683,
+          "currency": "EUR",
+          "value_usd_million": 2254.11,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2022,
+          "value_original": 1961.407414,
+          "currency": "EUR",
+          "value_usd_million": 2255.23,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2023,
+          "value_original": 2284.33,
+          "currency": "EUR",
+          "value_usd_million": 2626.52,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2024,
+          "value_original": 2456.221681,
+          "currency": "EUR",
+          "value_usd_million": 2824.16,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        }
+      ]
+    },
+    {
+      "code": "GBR",
+      "name": "United Kingdom",
+      "currency": "GBP",
+      "data": [
+        {
+          "year": 2010,
+          "value_original": 161.0,
+          "currency": "GBP",
+          "value_usd_million": 213.19,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 0.86833
+        },
+        {
+          "year": 2011,
+          "value_original": 296.7,
+          "currency": "GBP",
+          "value_usd_million": 392.88,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 0.86833
+        },
+        {
+          "year": 2012,
+          "value_original": 313.2,
+          "currency": "GBP",
+          "value_usd_million": 414.72,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 0.86833
+        },
+        {
+          "year": 2013,
+          "value_original": 417.6,
+          "currency": "GBP",
+          "value_usd_million": 552.97,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 0.86833
+        },
+        {
+          "year": 2014,
+          "value_original": 324.1,
+          "currency": "GBP",
+          "value_usd_million": 429.16,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 0.86833
+        },
+        {
+          "year": 2015,
+          "value_original": 334.8,
+          "currency": "GBP",
+          "value_usd_million": 443.33,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 0.86833
+        },
+        {
+          "year": 2016,
+          "value_original": 388.2,
+          "currency": "GBP",
+          "value_usd_million": 514.04,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 0.86833
+        },
+        {
+          "year": 2017,
+          "value_original": 145.7,
+          "currency": "GBP",
+          "value_usd_million": 192.93,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 0.86833
+        },
+        {
+          "year": 2018,
+          "value_original": 137.5,
+          "currency": "GBP",
+          "value_usd_million": 182.07,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 0.86833
+        },
+        {
+          "year": 2019,
+          "value_original": 165.0,
+          "currency": "GBP",
+          "value_usd_million": 218.48,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 0.86833
+        },
+        {
+          "year": 2020,
+          "value_original": 131.8,
+          "currency": "GBP",
+          "value_usd_million": 174.52,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 0.86833
+        },
+        {
+          "year": 2021,
+          "value_original": 124.2,
+          "currency": "GBP",
+          "value_usd_million": 164.46,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 0.86833
+        },
+        {
+          "year": 2022,
+          "value_original": 164.69,
+          "currency": "GBP",
+          "value_usd_million": 218.07,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 0.86833
+        },
+        {
+          "year": 2023,
+          "value_original": 365.58,
+          "currency": "GBP",
+          "value_usd_million": 484.08,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 0.86833
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "updated_at": "2026-08-20T06:19:59.739687+00:00",
+  "source": "Launch Library 2 / The Space Devs",
+  "source_url": "https://ll.thespacedevs.com/docs/",
+  "missions": [
+    {
+      "name": "창어 7",
+      "description": "창어 7호는 궤도선·착륙선·소형 도약 탐사선·로버로 구성된 달 남극 탐사 임무입니다. 달 토양의 물 얼음을 포함해 남극 지역의 표면 환경을 조사합니다.",
+      "icon": "🌕",
+      "agency": "기관 정보 없음",
+      "launch_date": "2026-08-24T00:00:00Z",
+      "status": "To Be Confirmed",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/9d402fb6-9115-424d-b6f0-bd3b13ee310e/"
+    },
+    {
+      "name": "낸시 그레이스 로만 우주망원경",
+      "description": "NASA의 적외선 우주망원경으로, 외계행성 탐색과 우주의 팽창 및 암흑에너지 연구를 수행합니다.",
+      "icon": "🔭",
+      "agency": "기관 정보 없음",
+      "launch_date": "2026-08-30T11:26:00Z",
+      "status": "Go for Launch",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/521f3a1c-f977-4306-9b7f-495858719adf/"
+    },
+    {
+      "name": "크루-13",
+      "description": "NASA 상업 유인 프로그램의 일환으로 크루 드래곤 우주선을 국제우주정거장으로 보내는 13번째 정규 유인 비행입니다.",
+      "icon": "🚀",
+      "agency": "Canadian Space Agency, National Aeronautics and Space Administration, Russian Federal Space Agency (ROSCOSMOS)",
+      "launch_date": "2026-09-12T22:34:00Z",
+      "status": "Go for Launch",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/18441371-8b2e-457c-afb5-1ec1b11ab630/"
+    },
+    {
+      "name": "화성 위성 탐사선(MMX)",
+      "description": "일본의 과학 탐사 임무로, 화성의 위성 포보스에 착륙해 시료를 채취하고 지구로 가져오는 것을 목표로 합니다. 프랑스·독일의 소형 로버도 탑재됩니다.",
+      "icon": "🌕",
+      "agency": "기관 정보 없음",
+      "launch_date": "2026-10-19T19:41:03Z",
+      "status": "Go for Launch",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/"
+    },
+    {
+      "name": "그리핀 미션 1",
+      "description": "애스트로보틱의 그리핀 달 착륙선과 엔진을 검증하는 임무입니다. 아스트로랩의 달 탐사 로버 FLIP를 탑재할 예정입니다.",
+      "icon": "🌕",
+      "agency": "Astrobotic Technology",
+      "launch_date": "2026-11-30T00:00:00Z",
+      "status": "To Be Determined",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/"
+    },
+    {
+      "name": "스타라이너-1",
+      "description": "NASA 상업 유인 프로그램의 스타라이너 첫 정규 비행입니다. 시스템 개선 사항을 검증하고 국제우주정거장에 필요한 화물을 운반합니다.",
+      "icon": "🚀",
+      "agency": "기관 정보 없음",
+      "launch_date": "2026-12-31T00:00:00Z",
+      "status": "To Be Determined",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/07e945c1-2ec6-4d29-a500-1afbe920440f/"
+    },
+    {
+      "name": "선저우 24",
+      "description": "중국 선저우 유인우주선 프로그램의 24번째 비행 임무입니다.",
+      "icon": "🚀",
+      "agency": "China National Space Administration",
+      "launch_date": "2026-12-31T00:00:00Z",
+      "status": "To Be Determined",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/"
+    },
+    {
+      "name": "화성 착륙선",
+      "description": "유인 화성 탐사에 필요한 연구·개발을 지원하도록 설계된 임펄스 스페이스의 화성 착륙선 임무입니다.",
+      "icon": "🔴",
+      "agency": "기관 정보 없음",
+      "launch_date": "2026-12-31T00:00:00Z",
+      "status": "To Be Determined",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/b97a54e5-5c6f-4f85-bcf3-69da17fa9682/"
+    }
+  ]
+}
