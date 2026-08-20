@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Space Data Center</title>
+
+    <link
+        rel="stylesheet"
+        href="style.css"
+    >
+</head>
+
+<body>
+
+    <!-- ==================================================
+         HEADER
+    ================================================== -->
+
+    <header class="header">
+
+        <div class="logo">
+            🚀 SPACE DATA CENTER
+        </div>
+
+        <div class="header-status">
+            LIVE DATA
+        </div>
+
+    </header>
+
+
+    <!-- ==================================================
+         NAVIGATION
+    ================================================== -->
+
+    <nav class="nav">
+
+        <button
+            class="nav-btn active"
+            data-section="home"
+        >
+            🏠 HOME
+        </button>
+
+        <button
+            class="nav-btn"
+            data-section="iss"
+        >
+            🛰️ ISS
+        </button>
+
+        <button
+            class="nav-btn"
+            data-section="neo"
+        >
+            ☄️ NEO
+        </button>
+
+        <button
+            class="nav-btn"
+            data-section="solar"
+        >
+            ☀️ SOLAR
+        </button>
+
+        <button
+            class="nav-btn"
+            data-section="korea"
+        >
+            🇰🇷 KOREA SPACE
+        </button>
+
+        <button
+            class="nav-btn"
+            data-section="world"
+        >
+            🌎 WORLD SPACE
+        </button>
+
+        <button
+            class="nav-btn"
+            data-section="exploration"
+        >
+            🌕 EXPLORATION
+        </button>
+
+    </nav>
+
+
+    <main class="container">
+
+
+        <!-- ==================================================
+             HOME
+        ================================================== -->
+
+        <section
+            id="home"
+            class="section active"
+        >
+
+            <div class="hero">
+
+                <div>
+
+                    <p class="eyebrow">
+                        REAL-TIME SPACE DATA
+                    </p>
+
+                    <h1>
+                        SPACE<br>
+                        DATA CENTER
+                    </h1>
+
+                    <p class="hero-description">
+                        우주 데이터를 수집하고
+                        시각화하는 공간
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div class="dashboard-grid">
+
+                <button
+                    class="dashboard-card"
+                    data-section="iss"
+                >
+
+                    <span class="card-icon">
+                        🛰️
+                    </span>
+
+                    <span class="card-title">
+                        ISS
+                    </span>
+
+                    <span class="card-description">
+                        국제우주정거장 현재 위치
+                    </span>
+
+                </button>
+
+
+                <button
+                    class="dashboard-card"
+                    data-section="neo"
+                >
+
+                    <span class="card-icon">
+                        ☄️
+                    </span>
+
+                    <span class="card-title">
+                        NEO
+                    </span>
+
+                    <span class="card-description">
+                        지구 근접 소행성
+                    </span>
+
+                </button>
+
+
+                <button
+                    class="dashboard-card"
+                    data-section="solar"
+                >
+
+                    <span class="card-icon">
+                        ☀️
+                    </span>
+
+                    <span class="card-title">
+                        SOLAR ACTIVITY
+                    </span>
+
+                    <span class="card-description">
+                        태양 활동 및 CME
+                    </span>
+
+                </button>
+
+
+                <button
+                    class="dashboard-card"
+                    data-section="korea"
+                >
+
+                    <span class="card-icon">
+                        🇰🇷
+                    </span>
+
+                    <span class="card-title">
+                        KOREA SPACE
+                    </span>
+
+                    <span class="card-description">
+                        대한민국 우주산업
+                    </span>
+
+                </button>
+
+
+                <button
+                    class="dashboard-card"
+                    data-section="world"
+                >
+
+                    <span class="card-icon">
+                        🌎
+                    </span>
+
+                    <span class="card-title">
+                        WORLD SPACE
+                    </span>
+
+                    <span class="card-description">
+                        세계 우주산업 R&D
+                    </span>
+
+                </button>
+
+
+                <button
+                    class="dashboard-card"
+                    data-section="exploration"
+                >
+
+                    <span class="card-icon">
+                        🌕
+                    </span>
+
+                    <span class="card-title">
+                        EXPLORATION
+                    </span>
+
+                    <span class="card-description">
+                        주요 우주 탐사
+                    </span>
+
+                </button>
+
+            </div>
+
+        </section>
+
+
+        <!-- ==================================================
+             ISS
+        ================================================== -->
+
+        <section
+            id="iss"
+            class="section"
+        >
+
+            <div class="section-header">
+
+                <div>
+
+                    <span class="section-label">
+                        ORBITAL DATA
+                    </span>
+
+                    <h2>
+                        🛰️ International Space Station
+                    </h2>
+
+                </div>
+
+            </div>
+
+
+            <div
+                id="issStatus"
+                class="status-message"
+            >
+                데이터를 불러오는 중...
+            </div>
+
+
+            <div
+                id="issData"
+                class="data-grid"
+            ></div>
+
+        </section>
+
+
+        <!-- ==================================================
+             NEO
+        ================================================== -->
+
+        <section
+            id="neo"
+            class="section"
+        >
+
+            <div class="section-header">
+
+                <div>
+
+                    <span class="section-label">
+                        NEAR EARTH OBJECTS
+                    </span>
+
+                    <h2>
+                        ☄️ Near-Earth Objects
+                    </h2>
+
+                </div>
+
+            </div>
+
+
+            <div class="filter-box">
+
+                <div class="filter-item">
+
+                    <label for="neoDistance">
+                        접근 거리
+                    </label>
+
+                    <select id="neoDistance">
+
+                        <option value="all">
+                            전체
+                        </option>
+
+                        <option value="10">
+                            1,000만 km 이하
+                        </option>
+
+                        <option value="50">
+                            5,000만 km 이하
+                        </option>
+
+                        <option value="100">
+                            1억 km 이하
+                        </option>
+
+                    </select>
+
+                </div>
+
+
+                <div class="filter-item">
+
+                    <label for="neoSize">
+                        크기
+                    </label>
+
+                    <select id="neoSize">
+
+                        <option value="all">
+                            전체
+                        </option>
+
+                        <option value="small">
+                            100m 이하
+                        </option>
+
+                        <option value="medium">
+                            100m ~ 1km
+                        </option>
+
+                        <option value="large">
+                            1km 이상
+                        </option>
+
+                    </select>
+
+                </div>
+
+            </div>
+
+
+            <div
+                id="neoStatus"
+                class="status-message"
+            >
+                데이터를 불러오는 중...
+            </div>
+
+
+            <div
+                id="neoData"
+                class="neo-grid"
+            ></div>
+
+        </section>
+
+
+        <!-- ==================================================
+             SOLAR
+        ================================================== -->
+
+        <section
+            id="solar"
+            class="section"
+        >
+
+            <div class="section-header">
+
+                <div>
+
+                    <span class="section-label">
+                        SPACE WEATHER
+                    </span>
+
+                    <h2>
+                        ☀️ Solar Activity
+                    </h2>
+
+                </div>
+
+            </div>
+
+
+            <div
+                id="solarSummary"
+                class="summary-grid"
+            ></div>
+
+
+            <h3 class="sub-title">
+                최근 태양 활동
+            </h3>
+
+
+            <div
+                id="solarData"
+                class="solar-list"
+            ></div>
+
+        </section>
+
+
+        <!-- ==================================================
+             KOREA SPACE
+        ================================================== -->
+
+        <section
+            id="korea"
+            class="section"
+        >
+
+            <div class="section-header">
+
+                <div>
+
+                    <span class="section-label">
+                        SOUTH KOREA
+                    </span>
+
+                    <h2>
+                        🇰🇷 대한민국 우주산업
+                    </h2>
+
+                </div>
+
+            </div>
+
+
+            <div class="info-box korea-info">
+
+                <strong>
+                    한국 우주산업 공공데이터
+                </strong>
+
+                <p>
+                    공공데이터포털에서 제공하는
+                    대한민국 우주산업 관련 통계입니다.
+                </p>
+
+                <p>
+                    <strong>단위: 백만원</strong>
+                </p>
+
+            </div>
+
+
+            <div
+                id="koreaSummary"
+                class="summary-grid"
+            ></div>
+
+<!-- KOREA SPACE GRAPH -->
+
+<div class="chart-card">
+
+    <div class="chart-header">
+
+        <div>
+
+            <h3>
+                🇰🇷 한국 우주산업 분야별 추이
+            </h3>
+
+            <p>
+                매출액 · 수출액 · 수입액 / 분야별 연도 데이터
+                (단위: 백만원)
+            </p>
+
+        </div>
+
+    </div>
+
+
+    <div class="chart-wrapper">
+
+        <canvas
+            id="koreaSpaceChart"
+        ></canvas>
+
+    </div>
+
+</div>
+            <h3 class="sub-title">
+                분야별 연도 데이터
+            </h3>
+
+
+            <div
+                id="koreaData"
+                class="korea-list"
+            ></div>
+
+        </section>
+
+
+        <!-- ==================================================
+             WORLD SPACE
+        ================================================== -->
+
+ <!-- ==================================================
+     WORLD SPACE
+================================================== -->
+
+<section
+    id="world"
+    class="section"
+>
+
+    <div class="section-header">
+
+        <div>
+
+            <span class="section-label">
+                GLOBAL SPACE INDUSTRY
+            </span>
+
+            <h2>
+                🌎 World Space R&D
+            </h2>
+
+        </div>
+
+    </div>
+
+
+    <div id="world-space-content"></div>
+
+</section>
+
+        <!-- ==================================================
+             EXPLORATION
+        ================================================== -->
+
+        <section
+            id="exploration"
+            class="section"
+        >
+
+            <div class="section-header">
+
+                <div>
+
+                    <span class="section-label">
+                        HUMAN SPACE EXPLORATION
+                    </span>
+
+                    <h2>
+                        🌕 Exploration
+                    </h2>
+
+                </div>
+
+            </div>
+
+
+            <div class="exploration-toolbar">
+                <p id="explorationStatus" class="exploration-status">탐사 미션 정보를 불러오는 중입니다.</p>
+                <a id="explorationSource" class="exploration-source" href="#" target="_blank" rel="noopener">데이터 출처</a>
+            </div>
+
+            <div id="explorationGrid" class="exploration-grid" aria-live="polite">
+
+
+                <article class="exploration-card">
+
+                    <div class="exploration-icon">
+                        🌕
+                    </div>
+
+                    <h3>
+                        달 탐사
+                    </h3>
+
+                    <p>
+                        인류가 가장 가까운 천체에서
+                        진행하고 있는 탐사 활동
+                    </p>
+
+                    <div class="exploration-info">
+                        주요 미션
+                    </div>
+
+                </article>
+
+
+                <article class="exploration-card">
+
+                    <div class="exploration-icon">
+                        🔴
+                    </div>
+
+                    <h3>
+                        화성 탐사
+                    </h3>
+
+                    <p>
+                        화성의 지질과 환경을 조사하는
+                        탐사 프로젝트
+                    </p>
+
+                    <div class="exploration-info">
+                        주요 미션
+                    </div>
+
+                </article>
+
+
+                <article class="exploration-card">
+
+                    <div class="exploration-icon">
+                        ☄️
+                    </div>
+
+                    <h3>
+                        소행성 탐사
+                    </h3>
+
+                    <p>
+                        소행성의 구성과 기원을 연구하는
+                        우주 탐사
+                    </p>
+
+                    <div class="exploration-info">
+                        주요 미션
+                    </div>
+
+                </article>
+
+
+                <article class="exploration-card">
+
+                    <div class="exploration-icon">
+                        🔭
+                    </div>
+
+                    <h3>
+                        우주망원경
+                    </h3>
+
+                    <p>
+                        먼 우주의 천체와 현상을 관측하는
+                        우주 망원경
+                    </p>
+
+                    <div class="exploration-info">
+                        주요 관측
+                    </div>
+
+                </article>
+
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- ==================================================
+         FOOTER
+    ================================================== -->
+
+    <footer class="footer">
+
+        <div>
+            SPACE DATA CENTER
+        </div>
+
+        <div>
+            Local JSON Data Dashboard
+        </div>
+
+    </footer>
+
+
+    <!-- Chart.js -->
+
+    <script
+        src="https://cdn.jsdelivr.net/npm/chart.js"
+    ></script>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
