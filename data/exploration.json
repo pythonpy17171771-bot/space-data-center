@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T08:00:57.228550+00:00",
+  "updated_at": "2026-08-21T01:45:26.113407+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -8,8 +8,8 @@
       "description": "창어 7호는 궤도선·착륙선·소형 도약 탐사선·로버로 구성된 달 남극 탐사 임무입니다. 달 토양의 물 얼음을 포함해 남극 지역의 표면 환경을 조사합니다.",
       "icon": "🌕",
       "agency": "기관 정보 없음",
-      "launch_date": "2026-08-24T00:00:00Z",
-      "status": "To Be Confirmed",
+      "launch_date": "2026-08-24T00:05:00Z",
+      "status": "Go for Launch",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/9d402fb6-9115-424d-b6f0-bd3b13ee310e/"
     },
     {
@@ -58,15 +58,6 @@
       "url": "https://ll.thespacedevs.com/2.3.0/launches/07e945c1-2ec6-4d29-a500-1afbe920440f/"
     },
     {
-      "name": "선저우 24",
-      "description": "중국 선저우 유인우주선 프로그램의 24번째 비행 임무입니다.",
-      "icon": "🚀",
-      "agency": "China National Space Administration",
-      "launch_date": "2026-12-31T00:00:00Z",
-      "status": "To Be Determined",
-      "url": "https://ll.thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/"
-    },
-    {
       "name": "화성 착륙선",
       "description": "유인 화성 탐사에 필요한 연구·개발을 지원하도록 설계된 임펄스 스페이스의 화성 착륙선 임무입니다.",
       "icon": "🔴",
@@ -74,6 +65,15 @@
       "launch_date": "2026-12-31T00:00:00Z",
       "status": "To Be Determined",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/b97a54e5-5c6f-4f85-bcf3-69da17fa9682/"
+    },
+    {
+      "name": "선저우 24",
+      "description": "중국 선저우 유인우주선 프로그램의 24번째 비행 임무입니다.",
+      "icon": "🚀",
+      "agency": "China National Space Administration",
+      "launch_date": "2026-12-31T00:00:00Z",
+      "status": "To Be Determined",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/"
     }
   ]
 }
