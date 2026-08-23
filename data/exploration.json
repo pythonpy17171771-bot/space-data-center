@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T14:17:03.575737+00:00",
+  "updated_at": "2026-08-23T01:48:34.443590+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -8,7 +8,7 @@
       "description": "창어 7호는 궤도선·착륙선·소형 도약 탐사선·로버로 구성된 달 남극 탐사 임무입니다. 달 토양의 물 얼음을 포함해 남극 지역의 표면 환경을 조사합니다.",
       "icon": "🌕",
       "agency": "기관 정보 없음",
-      "launch_date": "2026-08-24T00:05:00Z",
+      "launch_date": "2026-08-25T00:30:00Z",
       "status": "Go for Launch",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/9d402fb6-9115-424d-b6f0-bd3b13ee310e/"
     },
