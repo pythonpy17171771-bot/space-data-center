@@ -1849,6 +1849,96 @@
           "messageURL": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/48206/1"
         }
       ]
+    },
+    {
+      "activityID": "2026-08-23T00:12:00-CME-001",
+      "catalog": "M2M_CATALOG",
+      "startTime": "2026-08-23T00:12Z",
+      "instruments": [
+        {
+          "displayName": "SOHO: LASCO/C2"
+        },
+        {
+          "displayName": "SOHO: LASCO/C3"
+        },
+        {
+          "displayName": "GOES: CCOR-1"
+        }
+      ],
+      "sourceLocation": "S13W90",
+      "activeRegionNum": 14514,
+      "note": "Thin, fast CME observed to the W in SOHO LASCO C2/C3 and GOES CCOR-1, not observed in STEREO A COR2 likely due to its occulting disk. The source is AR 14514 (S10W83), with field line movement followed by a post eruptive arcade observed in SDO AIA 171/193 near the SW limb, centered approximately ~S13W90 (but may vary W80-W100), starting around 2026-08-22T23:47Z. Also observed brightening, field line movement, and slight dimming from this region in STEREO A EUVI 195/304.",
+      "submissionTime": "2026-08-23T01:53Z",
+      "versionId": 1,
+      "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48210/-1",
+      "cmeAnalyses": [
+        {
+          "isMostAccurate": true,
+          "time21_5": "2026-08-23T03:22Z",
+          "latitude": 7.0,
+          "longitude": 90.0,
+          "halfAngle": 10.0,
+          "speed": 1148.0,
+          "type": "O",
+          "featureCode": "LE",
+          "imageType": "running difference",
+          "measurementTechnique": "SWPC_CAT",
+          "note": "Preliminary measurement with 2 frames of LASCO C3 and 1 frame of LASCO C2 as currently available. This front has a more faint nose and a brighter piece following it; this preliminary analysis captures both in one measurement. Longitude W90 is used as a reasonable approximation and not a plane-of-sky, but could vary W80-W100.",
+          "levelOfData": 0,
+          "tilt": null,
+          "minorHalfWidth": null,
+          "speedMeasuredAtHeight": 6.8,
+          "submissionTime": "2026-08-23T01:55Z",
+          "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/48211/-1",
+          "enlilList": [
+            {
+              "modelCompletionTime": "2026-08-23T02:09Z",
+              "au": 2.0,
+              "estimatedShockArrivalTime": null,
+              "estimatedDuration": null,
+              "rmin_re": null,
+              "kp_18": null,
+              "kp_90": null,
+              "kp_135": null,
+              "kp_180": null,
+              "isEarthGB": false,
+              "isEarthMinorImpact": false,
+              "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/48212/-1",
+              "impactList": [
+                {
+                  "isGlancingBlow": false,
+                  "isMinorImpact": false,
+                  "location": "Mars",
+                  "arrivalTime": "2026-08-26T12:46Z"
+                },
+                {
+                  "isGlancingBlow": false,
+                  "isMinorImpact": true,
+                  "location": "Psyche",
+                  "arrivalTime": "2026-08-26T13:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "STEREO A",
+                  "arrivalTime": "2026-08-25T07:00Z"
+                }
+              ],
+              "cmeIDs": [
+                "2026-08-23T00:12:00-CME-001"
+              ]
+            }
+          ]
+        }
+      ],
+      "linkedEvents": null,
+      "sentNotifications": [
+        {
+          "messageID": "20260823-AL-001",
+          "messageIssueTime": "2026-08-23T02:19Z",
+          "messageURL": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/48213/1"
+        }
+      ]
     }
   ],
   "geomagnetic_storms": [],
