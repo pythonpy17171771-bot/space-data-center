@@ -1,17 +1,8 @@
 {
-  "updated_at": "2026-08-23T09:32:40.339062+00:00",
+  "updated_at": "2026-08-24T01:46:05.688729+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
-    {
-      "name": "창어 7",
-      "description": "창어 7호는 궤도선·착륙선·소형 도약 탐사선·로버로 구성된 달 남극 탐사 임무입니다. 달 토양의 물 얼음을 포함해 남극 지역의 표면 환경을 조사합니다.",
-      "icon": "🌕",
-      "agency": "기관 정보 없음",
-      "launch_date": "2026-08-25T00:30:00Z",
-      "status": "Go for Launch",
-      "url": "https://ll.thespacedevs.com/2.3.0/launches/9d402fb6-9115-424d-b6f0-bd3b13ee310e/"
-    },
     {
       "name": "낸시 그레이스 로만 우주망원경",
       "description": "NASA의 적외선 우주망원경으로, 외계행성 탐색과 우주의 팽창 및 암흑에너지 연구를 수행합니다.",
@@ -29,6 +20,15 @@
       "launch_date": "2026-09-12T22:34:00Z",
       "status": "Go for Launch",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/18441371-8b2e-457c-afb5-1ec1b11ab630/"
+    },
+    {
+      "name": "창어 7",
+      "description": "창어 7호는 궤도선·착륙선·소형 도약 탐사선·로버로 구성된 달 남극 탐사 임무입니다. 달 토양의 물 얼음을 포함해 남극 지역의 표면 환경을 조사합니다.",
+      "icon": "🌕",
+      "agency": "기관 정보 없음",
+      "launch_date": "2026-09-30T00:00:00Z",
+      "status": "To Be Determined",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/9d402fb6-9115-424d-b6f0-bd3b13ee310e/"
     },
     {
       "name": "화성 위성 탐사선(MMX)",
