@@ -3007,12 +3007,43 @@
               "cmeIDs": [
                 "2026-08-25T20:00:00-CME-001"
               ]
+            },
+            {
+              "modelCompletionTime": "2026-08-26T02:00Z",
+              "au": 5.5,
+              "estimatedShockArrivalTime": null,
+              "estimatedDuration": null,
+              "rmin_re": null,
+              "kp_18": null,
+              "kp_90": null,
+              "kp_135": null,
+              "kp_180": null,
+              "isEarthGB": false,
+              "isEarthMinorImpact": false,
+              "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/48296/-1",
+              "impactList": [
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "BepiColombo",
+                  "arrivalTime": "2026-08-27T01:00Z"
+                }
+              ],
+              "cmeIDs": [
+                "2026-08-25T20:00:00-CME-001"
+              ]
             }
           ]
         }
       ],
       "linkedEvents": null,
-      "sentNotifications": null
+      "sentNotifications": [
+        {
+          "messageID": "20260826-AL-001",
+          "messageIssueTime": "2026-08-26T02:04Z",
+          "messageURL": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/48297/1"
+        }
+      ]
     },
     {
       "activityID": "2026-08-25T22:24:00-CME-001",
