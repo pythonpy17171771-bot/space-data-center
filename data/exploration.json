@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T01:40:39.606860+00:00",
+  "updated_at": "2026-08-26T01:46:07.208409+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -20,15 +20,6 @@
       "launch_date": "2026-09-12T22:34:00Z",
       "status": "Go for Launch",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/18441371-8b2e-457c-afb5-1ec1b11ab630/"
-    },
-    {
-      "name": "창어 7",
-      "description": "창어 7호는 궤도선·착륙선·소형 도약 탐사선·로버로 구성된 달 남극 탐사 임무입니다. 달 토양의 물 얼음을 포함해 남극 지역의 표면 환경을 조사합니다.",
-      "icon": "🌕",
-      "agency": "기관 정보 없음",
-      "launch_date": "2026-09-30T00:00:00Z",
-      "status": "To Be Determined",
-      "url": "https://ll.thespacedevs.com/2.3.0/launches/9d402fb6-9115-424d-b6f0-bd3b13ee310e/"
     },
     {
       "name": "화성 위성 탐사선(MMX)",
