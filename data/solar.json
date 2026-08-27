@@ -1,30 +1,9 @@
 {
   "period": {
-    "start": "2026-08-19",
-    "end": "2026-08-26"
+    "start": "2026-08-20",
+    "end": "2026-08-27"
   },
   "solar_flares": [
-    {
-      "flrID": "2026-08-19T18:24:00-FLR-001",
-      "catalog": "M2M_CATALOG",
-      "instruments": [
-        {
-          "displayName": "GOES-P: EXIS 1.0-8.0"
-        }
-      ],
-      "beginTime": "2026-08-19T18:24Z",
-      "peakTime": "2026-08-19T18:51Z",
-      "endTime": "2026-08-19T19:10Z",
-      "classType": "M1.0",
-      "sourceLocation": "N05E85",
-      "activeRegionNum": 14513,
-      "note": "",
-      "submissionTime": "2026-08-20T00:48Z",
-      "versionId": 2,
-      "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/48155/-1",
-      "linkedEvents": null,
-      "sentNotifications": null
-    },
     {
       "flrID": "2026-08-20T07:31:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -292,10 +271,10 @@
       "endTime": "2026-08-25T13:16Z",
       "classType": "C4.7",
       "sourceLocation": "N04E16",
-      "activeRegionNum": null,
-      "note": "Near, but not associated with AR 14513 when comparing SDO AIA 131 to SDO HMI imagery.",
-      "submissionTime": "2026-08-25T15:43Z",
-      "versionId": 1,
+      "activeRegionNum": 14513,
+      "note": "",
+      "submissionTime": "2026-08-26T12:56Z",
+      "versionId": 2,
       "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/48255/-1",
       "linkedEvents": [
         {
@@ -303,375 +282,80 @@
         }
       ],
       "sentNotifications": null
+    },
+    {
+      "flrID": "2026-08-26T06:29:00-FLR-001",
+      "catalog": "M2M_CATALOG",
+      "instruments": [
+        {
+          "displayName": "GOES-P: EXIS 1.0-8.0"
+        }
+      ],
+      "beginTime": "2026-08-26T06:29Z",
+      "peakTime": "2026-08-26T06:34Z",
+      "endTime": "2026-08-26T06:38Z",
+      "classType": "M2.2",
+      "sourceLocation": "N03W02",
+      "activeRegionNum": 14513,
+      "note": "",
+      "submissionTime": "2026-08-26T11:03Z",
+      "versionId": 1,
+      "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/48298/-1",
+      "linkedEvents": [
+        {
+          "activityID": "2026-08-26T07:38:00-CME-001"
+        }
+      ],
+      "sentNotifications": null
+    },
+    {
+      "flrID": "2026-08-26T12:06:00-FLR-001",
+      "catalog": "M2M_CATALOG",
+      "instruments": [
+        {
+          "displayName": "GOES-P: EXIS 1.0-8.0"
+        }
+      ],
+      "beginTime": "2026-08-26T12:06Z",
+      "peakTime": "2026-08-26T12:14Z",
+      "endTime": "2026-08-26T12:22Z",
+      "classType": "M1.0",
+      "sourceLocation": "N04W05",
+      "activeRegionNum": 14513,
+      "note": "",
+      "submissionTime": "2026-08-26T12:42Z",
+      "versionId": 1,
+      "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/48302/-1",
+      "linkedEvents": null,
+      "sentNotifications": null
+    },
+    {
+      "flrID": "2026-08-26T21:29:00-FLR-001",
+      "catalog": "M2M_CATALOG",
+      "instruments": [
+        {
+          "displayName": "GOES-P: EXIS 1.0-8.0"
+        }
+      ],
+      "beginTime": "2026-08-26T21:29Z",
+      "peakTime": "2026-08-26T21:40Z",
+      "endTime": "2026-08-26T21:45Z",
+      "classType": "C3.4",
+      "sourceLocation": "N07E45",
+      "activeRegionNum": 14518,
+      "note": "",
+      "submissionTime": "2026-08-27T01:08Z",
+      "versionId": 1,
+      "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/48309/-1",
+      "linkedEvents": [
+        {
+          "activityID": "2026-08-26T22:24:00-CME-001"
+        }
+      ],
+      "sentNotifications": null
     }
   ],
   "cme": [
-    {
-      "activityID": "2026-08-19T01:36:00-CME-001",
-      "catalog": "M2M_CATALOG",
-      "startTime": "2026-08-19T01:36Z",
-      "instruments": [
-        {
-          "displayName": "SOHO: LASCO/C2"
-        },
-        {
-          "displayName": "SOHO: LASCO/C3"
-        },
-        {
-          "displayName": "GOES: CCOR-1"
-        }
-      ],
-      "sourceLocation": "N12W85",
-      "activeRegionNum": 14510,
-      "note": "This CME is visible to the W/NW in SOHO LASCO C2, C3, and GOES CCOR-1 imagery. The source is an eruption from Active Region 14510 (N12W85) starting around 2026-08-19T00:50Z as seen in SDO AIA 131/193, GOES SUVI 131/195/284, and STEREO A EUVI 195 imagery. An opening of field lines is visible over the western limb at this time in GOES SUVI 195/284 and SDO AIA 193 imagery.",
-      "submissionTime": "2026-08-19T17:00Z",
-      "versionId": 1,
-      "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48143/-1",
-      "cmeAnalyses": [
-        {
-          "isMostAccurate": true,
-          "time21_5": "2026-08-19T08:02Z",
-          "latitude": 16.0,
-          "longitude": 85.0,
-          "halfAngle": 22.0,
-          "speed": 502.0,
-          "type": "C",
-          "featureCode": "LE",
-          "imageType": "running difference",
-          "measurementTechnique": "SWPC_CAT",
-          "note": "Parameters based on best fit of features using the source location for lat/lon parameters.",
-          "levelOfData": 0,
-          "tilt": null,
-          "minorHalfWidth": null,
-          "speedMeasuredAtHeight": 9.7,
-          "submissionTime": "2026-08-19T17:02Z",
-          "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/48144/-1",
-          "enlilList": [
-            {
-              "modelCompletionTime": "2026-08-19T17:18Z",
-              "au": 2.0,
-              "estimatedShockArrivalTime": null,
-              "estimatedDuration": null,
-              "rmin_re": null,
-              "kp_18": null,
-              "kp_90": null,
-              "kp_135": null,
-              "kp_180": null,
-              "isEarthGB": false,
-              "isEarthMinorImpact": false,
-              "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/48145/-1",
-              "impactList": [
-                {
-                  "isGlancingBlow": true,
-                  "isMinorImpact": false,
-                  "location": "Mars",
-                  "arrivalTime": "2026-08-24T04:00Z"
-                },
-                {
-                  "isGlancingBlow": true,
-                  "isMinorImpact": false,
-                  "location": "Psyche",
-                  "arrivalTime": "2026-08-24T16:00Z"
-                },
-                {
-                  "isGlancingBlow": true,
-                  "isMinorImpact": false,
-                  "location": "STEREO A",
-                  "arrivalTime": "2026-08-21T16:00Z"
-                }
-              ],
-              "cmeIDs": [
-                "2026-08-19T01:36:00-CME-001"
-              ]
-            }
-          ]
-        }
-      ],
-      "linkedEvents": null,
-      "sentNotifications": [
-        {
-          "messageID": "20260819-AL-001",
-          "messageIssueTime": "2026-08-19T17:37Z",
-          "messageURL": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/48146/1"
-        }
-      ]
-    },
-    {
-      "activityID": "2026-08-19T06:30:00-CME-001",
-      "catalog": "M2M_CATALOG",
-      "startTime": "2026-08-19T06:30Z",
-      "instruments": [
-        {
-          "displayName": "GOES: CCOR-1"
-        },
-        {
-          "displayName": "SOHO: LASCO/C2"
-        },
-        {
-          "displayName": "SOHO: LASCO/C3"
-        }
-      ],
-      "sourceLocation": "N12W86",
-      "activeRegionNum": 14510,
-      "note": "This CME is visible to the northwest in GOES CCOR-1 and SOHO LASCO C2/C3 imagery. The source is an eruption from Active Region 14510 (N12W86) starting around 2026-08-19T05:50Z as seen in SDO AIA 131/193, GOES SUVI 131/195/284, and STEREO A EUVI 195 imagery. An opening of field lines is visible over the western limb at this time in GOES SUVI 195/284 and SDO AIA 193 imagery.",
-      "submissionTime": "2026-08-19T17:40Z",
-      "versionId": 1,
-      "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48147/-1",
-      "cmeAnalyses": [
-        {
-          "isMostAccurate": true,
-          "time21_5": "2026-08-19T12:33Z",
-          "latitude": 30.0,
-          "longitude": 86.0,
-          "halfAngle": 24.0,
-          "speed": 505.0,
-          "type": "C",
-          "featureCode": "LE",
-          "imageType": "running difference",
-          "measurementTechnique": "SWPC_CAT",
-          "note": "Measured longitude based on the source location.",
-          "levelOfData": 0,
-          "tilt": null,
-          "minorHalfWidth": null,
-          "speedMeasuredAtHeight": 11.9,
-          "submissionTime": "2026-08-19T17:42Z",
-          "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/48148/-1",
-          "enlilList": [
-            {
-              "modelCompletionTime": "2026-08-19T18:02Z",
-              "au": 2.0,
-              "estimatedShockArrivalTime": null,
-              "estimatedDuration": null,
-              "rmin_re": null,
-              "kp_18": null,
-              "kp_90": null,
-              "kp_135": null,
-              "kp_180": null,
-              "isEarthGB": false,
-              "isEarthMinorImpact": false,
-              "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/48153/-1",
-              "impactList": [
-                {
-                  "isGlancingBlow": true,
-                  "isMinorImpact": false,
-                  "location": "Mars",
-                  "arrivalTime": "2026-08-24T08:00Z"
-                },
-                {
-                  "isGlancingBlow": true,
-                  "isMinorImpact": false,
-                  "location": "Psyche",
-                  "arrivalTime": "2026-08-24T18:00Z"
-                },
-                {
-                  "isGlancingBlow": true,
-                  "isMinorImpact": false,
-                  "location": "STEREO A",
-                  "arrivalTime": "2026-08-22T16:00Z"
-                }
-              ],
-              "cmeIDs": [
-                "2026-08-19T06:30:00-CME-001",
-                "2026-08-19T08:45:00-CME-001",
-                "2026-08-19T11:30:00-CME-001"
-              ]
-            }
-          ]
-        }
-      ],
-      "linkedEvents": null,
-      "sentNotifications": [
-        {
-          "messageID": "20260819-AL-002",
-          "messageIssueTime": "2026-08-19T18:25Z",
-          "messageURL": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/48154/1"
-        }
-      ]
-    },
-    {
-      "activityID": "2026-08-19T08:45:00-CME-001",
-      "catalog": "M2M_CATALOG",
-      "startTime": "2026-08-19T08:45Z",
-      "instruments": [
-        {
-          "displayName": "GOES: CCOR-1"
-        },
-        {
-          "displayName": "SOHO: LASCO/C2"
-        },
-        {
-          "displayName": "SOHO: LASCO/C3"
-        }
-      ],
-      "sourceLocation": "N12W87",
-      "activeRegionNum": 14510,
-      "note": "This CME is visible to the northwest in GOES CCOR-1 and SOHO LASCO C2/C3 imagery. The source is an eruption from Active Region 14510 (N12W86) starting around 2026-08-19T06:30Z as seen in SDO AIA 131/193, GOES SUVI 131/195/284, and STEREO A EUVI 195 imagery. An opening of field lines is visible over the western limb at this time in GOES SUVI 195/284 and SDO AIA 193 imagery.",
-      "submissionTime": "2026-08-19T17:43Z",
-      "versionId": 1,
-      "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48149/-1",
-      "cmeAnalyses": [
-        {
-          "isMostAccurate": true,
-          "time21_5": "2026-08-19T15:40Z",
-          "latitude": 34.0,
-          "longitude": 87.0,
-          "halfAngle": 26.0,
-          "speed": 455.0,
-          "type": "S",
-          "featureCode": "LE",
-          "imageType": "running difference",
-          "measurementTechnique": "SWPC_CAT",
-          "note": "Measured longitude based on the source location.",
-          "levelOfData": 0,
-          "tilt": null,
-          "minorHalfWidth": null,
-          "speedMeasuredAtHeight": 8.2,
-          "submissionTime": "2026-08-19T17:45Z",
-          "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/48150/-1",
-          "enlilList": [
-            {
-              "modelCompletionTime": "2026-08-19T18:02Z",
-              "au": 2.0,
-              "estimatedShockArrivalTime": null,
-              "estimatedDuration": null,
-              "rmin_re": null,
-              "kp_18": null,
-              "kp_90": null,
-              "kp_135": null,
-              "kp_180": null,
-              "isEarthGB": false,
-              "isEarthMinorImpact": false,
-              "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/48153/-1",
-              "impactList": [
-                {
-                  "isGlancingBlow": true,
-                  "isMinorImpact": false,
-                  "location": "Mars",
-                  "arrivalTime": "2026-08-24T08:00Z"
-                },
-                {
-                  "isGlancingBlow": true,
-                  "isMinorImpact": false,
-                  "location": "Psyche",
-                  "arrivalTime": "2026-08-24T18:00Z"
-                },
-                {
-                  "isGlancingBlow": true,
-                  "isMinorImpact": false,
-                  "location": "STEREO A",
-                  "arrivalTime": "2026-08-22T16:00Z"
-                }
-              ],
-              "cmeIDs": [
-                "2026-08-19T06:30:00-CME-001",
-                "2026-08-19T08:45:00-CME-001",
-                "2026-08-19T11:30:00-CME-001"
-              ]
-            }
-          ]
-        }
-      ],
-      "linkedEvents": null,
-      "sentNotifications": [
-        {
-          "messageID": "20260819-AL-002",
-          "messageIssueTime": "2026-08-19T18:25Z",
-          "messageURL": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/48154/1"
-        }
-      ]
-    },
-    {
-      "activityID": "2026-08-19T11:30:00-CME-001",
-      "catalog": "M2M_CATALOG",
-      "startTime": "2026-08-19T11:30Z",
-      "instruments": [
-        {
-          "displayName": "GOES: CCOR-1"
-        },
-        {
-          "displayName": "SOHO: LASCO/C2"
-        },
-        {
-          "displayName": "SOHO: LASCO/C3"
-        }
-      ],
-      "sourceLocation": "N12W87",
-      "activeRegionNum": 14510,
-      "note": "This CME is visible to the northwest in GOES CCOR-1 and SOHO LASCO C2/C3 imagery. The source is an eruption from Active Region 14510 (N12W86) starting around 2026-08-19T10:30Z as seen in SDO AIA 131/193, GOES SUVI 131/195/284, and STEREO A EUVI 195 imagery. An opening of field lines is visible over the western limb at this time in GOES SUVI 195/284 and SDO AIA 193 imagery.",
-      "submissionTime": "2026-08-19T17:46Z",
-      "versionId": 1,
-      "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48151/-1",
-      "cmeAnalyses": [
-        {
-          "isMostAccurate": true,
-          "time21_5": "2026-08-19T17:17Z",
-          "latitude": 33.0,
-          "longitude": 87.0,
-          "halfAngle": 19.0,
-          "speed": 517.0,
-          "type": "C",
-          "featureCode": "LE",
-          "imageType": "running difference",
-          "measurementTechnique": "SWPC_CAT",
-          "note": "Measured longitude based on the source location.",
-          "levelOfData": 0,
-          "tilt": null,
-          "minorHalfWidth": null,
-          "speedMeasuredAtHeight": 8.1,
-          "submissionTime": "2026-08-19T17:47Z",
-          "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/48152/-1",
-          "enlilList": [
-            {
-              "modelCompletionTime": "2026-08-19T18:02Z",
-              "au": 2.0,
-              "estimatedShockArrivalTime": null,
-              "estimatedDuration": null,
-              "rmin_re": null,
-              "kp_18": null,
-              "kp_90": null,
-              "kp_135": null,
-              "kp_180": null,
-              "isEarthGB": false,
-              "isEarthMinorImpact": false,
-              "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/48153/-1",
-              "impactList": [
-                {
-                  "isGlancingBlow": true,
-                  "isMinorImpact": false,
-                  "location": "Mars",
-                  "arrivalTime": "2026-08-24T08:00Z"
-                },
-                {
-                  "isGlancingBlow": true,
-                  "isMinorImpact": false,
-                  "location": "Psyche",
-                  "arrivalTime": "2026-08-24T18:00Z"
-                },
-                {
-                  "isGlancingBlow": true,
-                  "isMinorImpact": false,
-                  "location": "STEREO A",
-                  "arrivalTime": "2026-08-22T16:00Z"
-                }
-              ],
-              "cmeIDs": [
-                "2026-08-19T06:30:00-CME-001",
-                "2026-08-19T08:45:00-CME-001",
-                "2026-08-19T11:30:00-CME-001"
-              ]
-            }
-          ]
-        }
-      ],
-      "linkedEvents": null,
-      "sentNotifications": [
-        {
-          "messageID": "20260819-AL-002",
-          "messageIssueTime": "2026-08-19T18:25Z",
-          "messageURL": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/48154/1"
-        }
-      ]
-    },
     {
       "activityID": "2026-08-20T04:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3131,6 +2815,182 @@
       ],
       "linkedEvents": null,
       "sentNotifications": null
+    },
+    {
+      "activityID": "2026-08-26T07:38:00-CME-001",
+      "catalog": "M2M_CATALOG",
+      "startTime": "2026-08-26T07:38Z",
+      "instruments": [
+        {
+          "displayName": "STEREO A: SECCHI/COR2"
+        }
+      ],
+      "sourceLocation": "N03W02",
+      "activeRegionNum": 14513,
+      "note": "This CME is visible to the east in STEREO A COR2 imagery in real-time only. The source may be related to the M2.2 flare from Active Region 14513 (N03W02) starting around 2026-08-26T06:30Z as seen in SDO AIA 131/171/193/304, GOES SUVI 131/171/195/284/304, and STEREO A EUVI 304 imagery.",
+      "submissionTime": "2026-08-26T12:28Z",
+      "versionId": 1,
+      "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48300/-1",
+      "cmeAnalyses": [
+        {
+          "isMostAccurate": true,
+          "time21_5": "2026-08-26T19:51Z",
+          "latitude": 3.0,
+          "longitude": 2.0,
+          "halfAngle": 18.0,
+          "speed": 278.0,
+          "type": "S",
+          "featureCode": "LE",
+          "imageType": "running difference",
+          "measurementTechnique": "SWPC_CAT",
+          "note": "Measurement based on the source location. This event becomes too diffuse to measure after three frames.",
+          "levelOfData": 0,
+          "tilt": null,
+          "minorHalfWidth": null,
+          "speedMeasuredAtHeight": 4.6,
+          "submissionTime": "2026-08-26T12:30Z",
+          "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/48301/-1",
+          "enlilList": [
+            {
+              "modelCompletionTime": "2026-08-26T12:46Z",
+              "au": 2.0,
+              "estimatedShockArrivalTime": "2026-08-30T07:00Z",
+              "estimatedDuration": null,
+              "rmin_re": null,
+              "kp_18": null,
+              "kp_90": 2,
+              "kp_135": 3,
+              "kp_180": 3,
+              "isEarthGB": false,
+              "isEarthMinorImpact": true,
+              "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/48303/-1",
+              "impactList": [
+                {
+                  "isGlancingBlow": false,
+                  "isMinorImpact": true,
+                  "location": "Juice",
+                  "arrivalTime": "2026-08-30T21:00Z"
+                },
+                {
+                  "isGlancingBlow": false,
+                  "isMinorImpact": true,
+                  "location": "Solar Orbiter",
+                  "arrivalTime": "2026-08-27T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Europa Clipper",
+                  "arrivalTime": "2026-08-30T18:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "OSIRIS-APEX",
+                  "arrivalTime": "2026-08-31T12:00Z"
+                }
+              ],
+              "cmeIDs": [
+                "2026-08-26T07:38:00-CME-001"
+              ]
+            }
+          ]
+        }
+      ],
+      "linkedEvents": [
+        {
+          "activityID": "2026-08-26T06:29:00-FLR-001"
+        }
+      ],
+      "sentNotifications": null
+    },
+    {
+      "activityID": "2026-08-26T22:24:00-CME-001",
+      "catalog": "M2M_CATALOG",
+      "startTime": "2026-08-26T22:24Z",
+      "instruments": [
+        {
+          "displayName": "SOHO: LASCO/C2"
+        }
+      ],
+      "sourceLocation": "N08E45",
+      "activeRegionNum": 14518,
+      "note": "Faint CME first seen to the East by SOHO LASCO C2 beginning at 2026-08-26T22:24Z. This CME fades before exiting the field-of-view in C2 and is therefore not clearly seen in other coronagraphs. The source of this event is a C3.4 flare from Active Region 14518 (N07E45) and a small eruption peaking at 2026-08-26T21:40Z as seen in SDO AIA 131, 193 and 304.",
+      "submissionTime": "2026-08-27T01:10Z",
+      "versionId": 2,
+      "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48306/-1",
+      "cmeAnalyses": [
+        {
+          "isMostAccurate": true,
+          "time21_5": "2026-08-27T04:52Z",
+          "latitude": 0.0,
+          "longitude": -45.0,
+          "halfAngle": 13.0,
+          "speed": 537.0,
+          "type": "C",
+          "featureCode": "LE",
+          "imageType": "running difference",
+          "measurementTechnique": "SWPC_CAT",
+          "note": "Measurement based on approximate source location and best fit in SOHO LASCO C2.",
+          "levelOfData": 0,
+          "tilt": null,
+          "minorHalfWidth": null,
+          "speedMeasuredAtHeight": 6.8,
+          "submissionTime": "2026-08-27T00:41Z",
+          "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/48307/-1",
+          "enlilList": [
+            {
+              "modelCompletionTime": "2026-08-27T00:59Z",
+              "au": 2.0,
+              "estimatedShockArrivalTime": null,
+              "estimatedDuration": null,
+              "rmin_re": null,
+              "kp_18": null,
+              "kp_90": null,
+              "kp_135": null,
+              "kp_180": null,
+              "isEarthGB": false,
+              "isEarthMinorImpact": false,
+              "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/48308/-1",
+              "impactList": [
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Europa Clipper",
+                  "arrivalTime": "2026-08-30T06:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "OSIRIS-APEX",
+                  "arrivalTime": "2026-08-31T00:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Solar Orbiter",
+                  "arrivalTime": "2026-08-28T03:00Z"
+                }
+              ],
+              "cmeIDs": [
+                "2026-08-26T22:24:00-CME-001"
+              ]
+            }
+          ]
+        }
+      ],
+      "linkedEvents": [
+        {
+          "activityID": "2026-08-26T21:29:00-FLR-001"
+        }
+      ],
+      "sentNotifications": [
+        {
+          "messageID": "20260827-AL-001",
+          "messageIssueTime": "2026-08-27T01:17Z",
+          "messageURL": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/48310/1"
+        }
+      ]
     }
   ],
   "geomagnetic_storms": [],
