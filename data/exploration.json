@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T06:46:43.594012+00:00",
+  "updated_at": "2026-08-30T04:59:45.344981+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -8,7 +8,7 @@
       "description": "NASA의 적외선 우주망원경으로, 외계행성 탐색과 우주의 팽창 및 암흑에너지 연구를 수행합니다.",
       "icon": "🔭",
       "agency": "기관 정보 없음",
-      "launch_date": "2026-08-30T11:26:00Z",
+      "launch_date": "2026-08-30T11:25:49Z",
       "status": "Go for Launch",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/521f3a1c-f977-4306-9b7f-495858719adf/"
     },
@@ -17,8 +17,8 @@
       "description": "NASA 상업 유인 프로그램의 일환으로 크루 드래곤 우주선을 국제우주정거장으로 보내는 13번째 정규 유인 비행입니다.",
       "icon": "🚀",
       "agency": "Canadian Space Agency, National Aeronautics and Space Administration, Russian Federal Space Agency (ROSCOSMOS)",
-      "launch_date": "2026-09-12T22:34:00Z",
-      "status": "Go for Launch",
+      "launch_date": "2026-09-30T00:00:00Z",
+      "status": "To Be Determined",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/18441371-8b2e-457c-afb5-1ec1b11ab630/"
     },
     {
@@ -40,6 +40,15 @@
       "url": "https://ll.thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/"
     },
     {
+      "name": "선저우 24",
+      "description": "중국 선저우 유인우주선 프로그램의 24번째 비행 임무입니다.",
+      "icon": "🚀",
+      "agency": "China National Space Administration",
+      "launch_date": "2026-12-31T00:00:00Z",
+      "status": "To Be Determined",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/"
+    },
+    {
       "name": "화성 착륙선",
       "description": "유인 화성 탐사에 필요한 연구·개발을 지원하도록 설계된 임펄스 스페이스의 화성 착륙선 임무입니다.",
       "icon": "🔴",
@@ -56,15 +65,6 @@
       "launch_date": "2026-12-31T00:00:00Z",
       "status": "To Be Determined",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/07e945c1-2ec6-4d29-a500-1afbe920440f/"
-    },
-    {
-      "name": "선저우 24",
-      "description": "중국 선저우 유인우주선 프로그램의 24번째 비행 임무입니다.",
-      "icon": "🚀",
-      "agency": "China National Space Administration",
-      "launch_date": "2026-12-31T00:00:00Z",
-      "status": "To Be Determined",
-      "url": "https://ll.thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/"
     }
   ]
 }
