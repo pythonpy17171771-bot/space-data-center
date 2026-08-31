@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T04:59:45.344981+00:00",
+  "updated_at": "2026-08-31T05:05:29.214860+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -8,8 +8,8 @@
       "description": "NASA의 적외선 우주망원경으로, 외계행성 탐색과 우주의 팽창 및 암흑에너지 연구를 수행합니다.",
       "icon": "🔭",
       "agency": "기관 정보 없음",
-      "launch_date": "2026-08-30T11:25:49Z",
-      "status": "Go for Launch",
+      "launch_date": "2026-08-30T11:26:04Z",
+      "status": "Launch Successful",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/521f3a1c-f977-4306-9b7f-495858719adf/"
     },
     {
