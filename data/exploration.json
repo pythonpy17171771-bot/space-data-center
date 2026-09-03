@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T04:04:38.826538+00:00",
+  "updated_at": "2026-09-03T04:03:00.168929+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -47,15 +47,6 @@
       "launch_date": "2026-12-31T00:00:00Z",
       "status": "To Be Determined",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/07e945c1-2ec6-4d29-a500-1afbe920440f/"
-    },
-    {
-      "name": "화성 착륙선",
-      "description": "유인 화성 탐사에 필요한 연구·개발을 지원하도록 설계된 임펄스 스페이스의 화성 착륙선 임무입니다.",
-      "icon": "🔴",
-      "agency": "기관 정보 없음",
-      "launch_date": "2026-12-31T00:00:00Z",
-      "status": "To Be Determined",
-      "url": "https://ll.thespacedevs.com/2.3.0/launches/b97a54e5-5c6f-4f85-bcf3-69da17fa9682/"
     }
   ]
 }
