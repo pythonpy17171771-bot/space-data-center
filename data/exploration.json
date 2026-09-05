@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T04:06:20.029692+00:00",
+  "updated_at": "2026-09-05T04:02:29.196358+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -38,6 +38,15 @@
       "launch_date": "2026-12-31T00:00:00Z",
       "status": "To Be Determined",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/"
+    },
+    {
+      "name": "화성 착륙선",
+      "description": "유인 화성 탐사에 필요한 연구·개발을 지원하도록 설계된 임펄스 스페이스의 화성 착륙선 임무입니다.",
+      "icon": "🔴",
+      "agency": "기관 정보 없음",
+      "launch_date": "2026-12-31T00:00:00Z",
+      "status": "To Be Determined",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/b97a54e5-5c6f-4f85-bcf3-69da17fa9682/"
     },
     {
       "name": "스타라이너-1",
