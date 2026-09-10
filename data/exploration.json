@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T04:17:52.080729+00:00",
+  "updated_at": "2026-09-10T04:14:35.107214+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -47,15 +47,6 @@
       "launch_date": "2026-12-31T00:00:00Z",
       "status": "To Be Determined",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/"
-    },
-    {
-      "name": "스타라이너-1",
-      "description": "NASA 상업 유인 프로그램의 스타라이너 첫 정규 비행입니다. 시스템 개선 사항을 검증하고 국제우주정거장에 필요한 화물을 운반합니다.",
-      "icon": "🚀",
-      "agency": "기관 정보 없음",
-      "launch_date": "2026-12-31T00:00:00Z",
-      "status": "To Be Determined",
-      "url": "https://ll.thespacedevs.com/2.3.0/launches/07e945c1-2ec6-4d29-a500-1afbe920440f/"
     }
   ]
 }
