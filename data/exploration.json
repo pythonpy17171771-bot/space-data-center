@@ -1,8 +1,17 @@
 {
-  "updated_at": "2026-09-18T04:18:21.487180+00:00",
+  "updated_at": "2026-09-19T04:14:53.361624+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
+    {
+      "name": "크루-13",
+      "description": "NASA 상업 유인 프로그램의 일환으로 크루 드래곤 우주선을 국제우주정거장으로 보내는 13번째 정규 유인 비행입니다.",
+      "icon": "🚀",
+      "agency": "Canadian Space Agency, National Aeronautics and Space Administration, Russian Federal Space Agency (ROSCOSMOS)",
+      "launch_date": "2026-10-01T15:10:06Z",
+      "status": "To Be Confirmed",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/18441371-8b2e-457c-afb5-1ec1b11ab630/"
+    },
     {
       "name": "화성 위성 탐사선(MMX)",
       "description": "일본의 과학 탐사 임무로, 화성의 위성 포보스에 착륙해 시료를 채취하고 지구로 가져오는 것을 목표로 합니다. 프랑스·독일의 소형 로버도 탑재됩니다.",
@@ -11,15 +20,6 @@
       "launch_date": "2026-10-19T19:41:03Z",
       "status": "Go for Launch",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/"
-    },
-    {
-      "name": "크루-13",
-      "description": "NASA 상업 유인 프로그램의 일환으로 크루 드래곤 우주선을 국제우주정거장으로 보내는 13번째 정규 유인 비행입니다.",
-      "icon": "🚀",
-      "agency": "Canadian Space Agency, National Aeronautics and Space Administration, Russian Federal Space Agency (ROSCOSMOS)",
-      "launch_date": "2026-10-31T00:00:00Z",
-      "status": "To Be Determined",
-      "url": "https://ll.thespacedevs.com/2.3.0/launches/18441371-8b2e-457c-afb5-1ec1b11ab630/"
     },
     {
       "name": "그리핀 미션 1",
@@ -47,15 +47,6 @@
       "launch_date": "2026-12-31T00:00:00Z",
       "status": "To Be Determined",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/"
-    },
-    {
-      "name": "Lunar Polar Exploration Mission (LUPEX)",
-      "description": "The Lunar Polar Exploration mission (LUPEX) is a robotic lunar mission jointly developed by the Indian Space Research Organisation (ISRO) and Japan Aerospace Exploration Agency (JAXA), deploying a lunar rover and lander to explore the south pole region of the Moon.\r\n\r\nJAXA will provide the under-development H3 launch vehicle and the rover, while ISRO would be responsible for the lander.",
-      "icon": "🌕",
-      "agency": "기관 정보 없음",
-      "launch_date": "2026-12-31T00:00:00Z",
-      "status": "To Be Determined",
-      "url": "https://ll.thespacedevs.com/2.3.0/launches/3a4dc969-d264-48a1-b113-bf69a798a5c4/"
     }
   ]
 }
