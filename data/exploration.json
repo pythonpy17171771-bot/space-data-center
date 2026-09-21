@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T04:33:53.460747+00:00",
+  "updated_at": "2026-09-21T04:31:41.917215+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -31,6 +31,15 @@
       "url": "https://ll.thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/"
     },
     {
+      "name": "선저우 24",
+      "description": "중국 선저우 유인우주선 프로그램의 24번째 비행 임무입니다.",
+      "icon": "🚀",
+      "agency": "China National Space Administration",
+      "launch_date": "2026-12-31T00:00:00Z",
+      "status": "To Be Determined",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/"
+    },
+    {
       "name": "화성 착륙선",
       "description": "유인 화성 탐사에 필요한 연구·개발을 지원하도록 설계된 임펄스 스페이스의 화성 착륙선 임무입니다.",
       "icon": "🔴",
@@ -40,13 +49,13 @@
       "url": "https://ll.thespacedevs.com/2.3.0/launches/b97a54e5-5c6f-4f85-bcf3-69da17fa9682/"
     },
     {
-      "name": "선저우 24",
-      "description": "중국 선저우 유인우주선 프로그램의 24번째 비행 임무입니다.",
-      "icon": "🚀",
-      "agency": "China National Space Administration",
+      "name": "Lunar Polar Exploration Mission (LUPEX)",
+      "description": "The Lunar Polar Exploration mission (LUPEX) is a robotic lunar mission jointly developed by the Indian Space Research Organisation (ISRO) and Japan Aerospace Exploration Agency (JAXA), deploying a lunar rover and lander to explore the south pole region of the Moon.\r\n\r\nJAXA will provide the under-development H3 launch vehicle and the rover, while ISRO would be responsible for the lander.",
+      "icon": "🌕",
+      "agency": "기관 정보 없음",
       "launch_date": "2026-12-31T00:00:00Z",
       "status": "To Be Determined",
-      "url": "https://ll.thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/"
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/3a4dc969-d264-48a1-b113-bf69a798a5c4/"
     }
   ]
 }
