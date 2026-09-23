@@ -1,7 +1,7 @@
 {
   "period": {
-    "start": "2026-09-15",
-    "end": "2026-09-22"
+    "start": "2026-09-16",
+    "end": "2026-09-23"
   },
   "solar_flares": [
     {
@@ -17,10 +17,10 @@
       "endTime": "2026-09-19T18:32Z",
       "classType": "C3.3",
       "sourceLocation": "N14E90",
-      "activeRegionNum": null,
-      "note": "",
-      "submissionTime": "2026-09-19T21:45Z",
-      "versionId": 1,
+      "activeRegionNum": 14535,
+      "note": "The flare was produce by the unnumbered Active Region just behind the limb. This is likely the Active Region that would be numbered AR 14535.",
+      "submissionTime": "2026-09-22T13:55Z",
+      "versionId": 2,
       "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/FLR/48733/-1",
       "linkedEvents": [
         {
@@ -31,46 +31,6 @@
     }
   ],
   "cme": [
-    {
-      "activityID": "2026-09-15T08:36:00-CME-001",
-      "catalog": "M2M_CATALOG",
-      "startTime": "2026-09-15T08:36Z",
-      "instruments": [
-        {
-          "displayName": "SOHO: LASCO/C2"
-        }
-      ],
-      "sourceLocation": "",
-      "activeRegionNum": null,
-      "note": "Very faint CME/outflow with a fuzzy, unclear front seen to the NE in early images of SOHO LASCO C2 only. It is not seen in SOHO LASCO C3, STEREO A COR2 and GOES CCOR-1, likely because of its faintness. No source for this feature has been found in EUV imagery.",
-      "submissionTime": "2026-09-15T16:29Z",
-      "versionId": 2,
-      "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48718/-1",
-      "cmeAnalyses": [
-        {
-          "isMostAccurate": true,
-          "time21_5": "2026-09-15T17:26Z",
-          "latitude": 45.0,
-          "longitude": null,
-          "halfAngle": 16.0,
-          "speed": 395.0,
-          "type": "S",
-          "featureCode": "LE",
-          "imageType": "running difference",
-          "measurementTechnique": "Plane-of-sky",
-          "note": "Plane of sky measurement using SOHO LASCO C2 running difference imagery in SWPC_CAT.",
-          "levelOfData": 0,
-          "tilt": null,
-          "minorHalfWidth": null,
-          "speedMeasuredAtHeight": 6.0,
-          "submissionTime": "2026-09-15T19:02Z",
-          "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/48719/-1",
-          "enlilList": []
-        }
-      ],
-      "linkedEvents": null,
-      "sentNotifications": null
-    },
     {
       "activityID": "2026-09-18T03:24:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -134,9 +94,9 @@
       ],
       "sourceLocation": "",
       "activeRegionNum": null,
-      "note": "Faint, narrow CME seen to the SW in SOHO LASCO C2 and STEREO A COR2 and very faintly seen in a couple of stamps of GOES CCOR-1 coronagraph, not seen in SOHO LASCO C3. Its source is likely seen in STEREO A EUV 304 imagery as a large ejecta off the W limb after 2026-09-19T15Z and not seen in any other EUV imagery. The ejecta is very fuzzy, it's exact location/longitude is unclear, but it seems to be close to the limb (which would be ~159 deg).",
-      "submissionTime": "2026-09-20T00:23Z",
-      "versionId": 1,
+      "note": "Faint, narrow CME seen to the SW in SOHO LASCO C2 and STEREO A COR2 and very faintly seen in a couple of frames of GOES CCOR-1 coronagraph imagery. The CME is not seen in SOHO LASCO C3. Its source is likely seen in STEREO A EUV 304 imagery as a large ejecta off the W limb after 2026-09-19T15Z and not seen in any other EUV imagery. The ejecta is not clearly visible, and it's exact location/longitude is unclear, but it seems to be close to the limb (which would be ~159 deg).",
+      "submissionTime": "2026-09-22T17:20Z",
+      "versionId": 2,
       "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48735/-1",
       "cmeAnalyses": [
         {
@@ -516,9 +476,9 @@
       ],
       "sourceLocation": "",
       "activeRegionNum": null,
-      "note": "Faint CME observed to the W only in STEREO A COR2. No distinct source is observed in Earth facing EUV or STEREO A EUVI.",
-      "submissionTime": "2026-09-20T19:45Z",
-      "versionId": 1,
+      "note": "Faint CME observed to the W only in STEREO A COR2. No distinct source is observed in available EUV imagery.",
+      "submissionTime": "2026-09-22T17:24Z",
+      "versionId": 2,
       "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48749/-1",
       "cmeAnalyses": [
         {
@@ -559,9 +519,9 @@
       ],
       "sourceLocation": "",
       "activeRegionNum": null,
-      "note": "Faint CME obseved to the NW in SOHO LASCO C2/C3, not in STEREO A COR2 (may be too faint) or GOES CCOR-1 (likely pylon obscured). No distinct EUV source is observed for this front.",
-      "submissionTime": "2026-09-21T18:25Z",
-      "versionId": 1,
+      "note": "Faint CME observed to the NW in SOHO LASCO C2/C3. The CME is not visible in STEREO A COR2 (may be too faint) or GOES CCOR-1 (likely pylon obscured). No distinct EUV source is observed for this CME.",
+      "submissionTime": "2026-09-22T17:25Z",
+      "versionId": 2,
       "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48768/-1",
       "cmeAnalyses": [
         {
@@ -605,9 +565,9 @@
       ],
       "sourceLocation": "",
       "activeRegionNum": null,
-      "note": "Faint CME observed to the NW in STEREO A COR2 and SOHO LASCO C2/C3, not in GOES CCOR-1 likely obscured by the pylon. The only potential source is a slow brightening on the NW disk of STEREO A EUVI 195 starting around 2026-09-20T18:55Z.",
-      "submissionTime": "2026-09-21T18:43Z",
-      "versionId": 1,
+      "note": "Faint CME observed to the NW in STEREO A COR2 and SOHO LASCO C2/C3, not in GOES CCOR-1 as it is likely obscured by the pylon. The only potential source is a slow brightening on the NW disk of STEREO A EUVI 195 starting around 2026-09-20T18:55Z.",
+      "submissionTime": "2026-09-22T17:26Z",
+      "versionId": 2,
       "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48771/-1",
       "cmeAnalyses": [
         {
@@ -654,9 +614,9 @@
       ],
       "sourceLocation": "",
       "activeRegionNum": null,
-      "note": "Faint CME observed to the NW in STEREO A COR2 and SOHO LASCO C2/C3, largely blocked by the pylon in GOES CCOR-1. The source is unclear, with a potential far-sided source on the STEREO A EUVI 195/304 west limb observed as brightening and field line movement starting around 2026-09-21T09:05Z, very close to the CME start time however. There are two additional field line movements near the NW limb in SDO AIA 171 starting around 2026-09-21T03:03Z and 2026-09-21T05:54Z, however these are quite early and on-disk while triangulation of the front puts it far-sided.",
-      "submissionTime": "2026-09-21T17:07Z",
-      "versionId": 1,
+      "note": "Faint CME observed to the NW in STEREO A COR2 and SOHO LASCO C2/C3, largely blocked by the pylon in GOES CCOR-1. The source is unclear, with a potential far-sided source on the STEREO A EUVI 195/304 west limb observed as brightening and field line movement starting around 2026-09-21T09:05Z, very close to the CME start time however. There are two additional field line movements near the NW limb in SDO AIA 171 starting around 2026-09-21T03:03Z and 2026-09-21T05:54Z, however these eruptions may be too early to be associated with this CME. Triangulation of the leading edge suggests the CME is far-sided.",
+      "submissionTime": "2026-09-22T11:13Z",
+      "versionId": 2,
       "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48760/-1",
       "cmeAnalyses": [
         {
