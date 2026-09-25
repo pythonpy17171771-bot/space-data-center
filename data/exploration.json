@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T04:21:16.706478+00:00",
+  "updated_at": "2026-09-25T04:32:32.792638+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -47,6 +47,15 @@
       "launch_date": "2026-12-31T00:00:00Z",
       "status": "To Be Determined",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/b97a54e5-5c6f-4f85-bcf3-69da17fa9682/"
+    },
+    {
+      "name": "Lunar Polar Exploration Mission (LUPEX)",
+      "description": "The Lunar Polar Exploration mission (LUPEX) is a robotic lunar mission jointly developed by the Indian Space Research Organisation (ISRO) and Japan Aerospace Exploration Agency (JAXA), deploying a lunar rover and lander to explore the south pole region of the Moon.\r\n\r\nJAXA will provide the under-development H3 launch vehicle and the rover, while ISRO would be responsible for the lander.",
+      "icon": "🌕",
+      "agency": "기관 정보 없음",
+      "launch_date": "2026-12-31T00:00:00Z",
+      "status": "To Be Determined",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/3a4dc969-d264-48a1-b113-bf69a798a5c4/"
     }
   ]
 }

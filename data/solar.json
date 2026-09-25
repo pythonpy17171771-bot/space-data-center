@@ -1,7 +1,7 @@
 {
   "period": {
-    "start": "2026-09-17",
-    "end": "2026-09-24"
+    "start": "2026-09-18",
+    "end": "2026-09-25"
   },
   "solar_flares": [
     {
@@ -638,6 +638,205 @@
           "submissionTime": "2026-09-21T17:10Z",
           "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/48761/-1",
           "enlilList": []
+        }
+      ],
+      "linkedEvents": null,
+      "sentNotifications": null
+    },
+    {
+      "activityID": "2026-09-24T02:53:00-CME-001",
+      "catalog": "M2M_CATALOG",
+      "startTime": "2026-09-24T02:53Z",
+      "instruments": [
+        {
+          "displayName": "STEREO A: SECCHI/COR2"
+        }
+      ],
+      "sourceLocation": "N03W32",
+      "activeRegionNum": 14536,
+      "note": "CME observed to the E only in STEREO A COR2, likely due to the occulting disk in other coronagraphs and/or faint leading edge. The start time of 2026-09-24T02:53Z in white light is later than first observation at 2026-09-24T01:38Z in running difference imagery due to the bright streamer overlap. The source may be an eruption from AR 14536 centered around N03W32, observed as slow dimming, brightening, and field line movement in SDO AIA 171/193 starting around 2026-09-23T21:06Z. In STEREO A COR2, there is a faint leading edge observed already far in the east field-of-view after a data gap ends at 2026-09-24T01:23Z that better corresponds to this eruption time, but also plausible to match this leading edge.",
+      "submissionTime": "2026-09-24T13:39Z",
+      "versionId": 1,
+      "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48790/-1",
+      "cmeAnalyses": [
+        {
+          "isMostAccurate": true,
+          "time21_5": "2026-09-24T07:31Z",
+          "latitude": -3.0,
+          "longitude": 32.0,
+          "halfAngle": 10.0,
+          "speed": 500.0,
+          "type": "C",
+          "featureCode": "LE",
+          "imageType": "running difference",
+          "measurementTechnique": "SWPC_CAT",
+          "note": "STEREO A COR2 only analysis using the source N03W32 as a basis, as such the parameters could vary. In STEREO A COR2, there is a faint leading edge observed already far in the east field-of-view after a data gap ends at 2026-09-24T01:23Z that better corresponds to te eruption time, but also plausible to match this leading edge.",
+          "levelOfData": 0,
+          "tilt": null,
+          "minorHalfWidth": null,
+          "speedMeasuredAtHeight": 17.4,
+          "submissionTime": "2026-09-24T13:42Z",
+          "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/48791/-1",
+          "enlilList": [
+            {
+              "modelCompletionTime": "2026-09-24T13:57Z",
+              "au": 2.0,
+              "estimatedShockArrivalTime": null,
+              "estimatedDuration": null,
+              "rmin_re": null,
+              "kp_18": null,
+              "kp_90": null,
+              "kp_135": null,
+              "kp_180": null,
+              "isEarthGB": false,
+              "isEarthMinorImpact": false,
+              "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/48792/-1",
+              "impactList": [
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Solar Orbiter",
+                  "arrivalTime": "2026-09-26T00:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "STEREO A",
+                  "arrivalTime": "2026-09-27T01:00Z"
+                }
+              ],
+              "cmeIDs": [
+                "2026-09-24T02:53:00-CME-001"
+              ]
+            }
+          ]
+        }
+      ],
+      "linkedEvents": null,
+      "sentNotifications": [
+        {
+          "messageID": "20260924-AL-001",
+          "messageIssueTime": "2026-09-24T14:50Z",
+          "messageURL": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/Alert/48793/1"
+        }
+      ]
+    },
+    {
+      "activityID": "2026-09-24T09:23:00-CME-001",
+      "catalog": "M2M_CATALOG",
+      "startTime": "2026-09-24T09:23Z",
+      "instruments": [
+        {
+          "displayName": "STEREO A: SECCHI/COR2"
+        }
+      ],
+      "sourceLocation": "",
+      "activeRegionNum": null,
+      "note": "Faint CME observed to the SW only in STEREO A COR2, may be due to faintness or the occulting disk in other coronagraphs. No EUV source is observed for this front.",
+      "submissionTime": "2026-09-24T16:46Z",
+      "versionId": 1,
+      "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48794/-1",
+      "cmeAnalyses": [
+        {
+          "isMostAccurate": true,
+          "time21_5": "2026-09-24T14:46Z",
+          "latitude": -17.0,
+          "longitude": null,
+          "halfAngle": 10.0,
+          "speed": 618.0,
+          "type": "C",
+          "featureCode": "LE",
+          "imageType": "running difference",
+          "measurementTechnique": "Plane-of-sky",
+          "note": "STEREO A COR2 plane-of-sky given the unknown, likely far-sided, source; taken at W159.8 with STEREO A currently at W69.8.",
+          "levelOfData": 0,
+          "tilt": null,
+          "minorHalfWidth": null,
+          "speedMeasuredAtHeight": 5.9,
+          "submissionTime": "2026-09-24T16:47Z",
+          "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/48795/-1",
+          "enlilList": []
+        }
+      ],
+      "linkedEvents": null,
+      "sentNotifications": null
+    },
+    {
+      "activityID": "2026-09-24T14:45:00-CME-001",
+      "catalog": "M2M_CATALOG",
+      "startTime": "2026-09-24T14:45Z",
+      "instruments": [
+        {
+          "displayName": "GOES: CCOR-1"
+        },
+        {
+          "displayName": "STEREO A: SECCHI/COR2"
+        }
+      ],
+      "sourceLocation": "S35W70",
+      "activeRegionNum": null,
+      "note": "CME observed to the SW in GOES CCOR-1 and S in STEREO A COR2, overlapping with a slow, wide streamer blowout beginning ~2026-09-23T20:12Z (itself measuring ~176 km/s). Not observed in SOHO LASCO C2/C3 due to a real-time data gap. The source is field line movement and small shifting of a coronal hole boundary best observed only in GOES SUVI 284 starting ~2026-09-24T14:02Z, tracing on-disk around S35W70 in proximity to a large southern coronal hole.",
+      "submissionTime": "2026-09-24T17:37Z",
+      "versionId": 1,
+      "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CME/48797/-1",
+      "cmeAnalyses": [
+        {
+          "isMostAccurate": true,
+          "time21_5": "2026-09-24T21:21Z",
+          "latitude": -32.0,
+          "longitude": 76.0,
+          "halfAngle": 29.0,
+          "speed": 493.0,
+          "type": "S",
+          "featureCode": "LE",
+          "imageType": "running difference",
+          "measurementTechnique": "SWPC_CAT",
+          "note": "GOES CCOR-1 and STEREO A COR2 triangulation, full width and leading edge somewhat obscured by this front's overlap with the preceeding streamer blowout.",
+          "levelOfData": 0,
+          "tilt": null,
+          "minorHalfWidth": null,
+          "speedMeasuredAtHeight": 9.4,
+          "submissionTime": "2026-09-24T17:40Z",
+          "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/CMEAnalysis/48798/-1",
+          "enlilList": [
+            {
+              "modelCompletionTime": "2026-09-24T17:53Z",
+              "au": 2.0,
+              "estimatedShockArrivalTime": null,
+              "estimatedDuration": null,
+              "rmin_re": null,
+              "kp_18": null,
+              "kp_90": null,
+              "kp_135": null,
+              "kp_180": null,
+              "isEarthGB": false,
+              "isEarthMinorImpact": false,
+              "link": "https://kauai.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/48799/-1",
+              "impactList": [
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Mars",
+                  "arrivalTime": "2026-09-29T18:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2026-09-30T00:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "STEREO A",
+                  "arrivalTime": "2026-09-27T14:00Z"
+                }
+              ],
+              "cmeIDs": [
+                "2026-09-24T14:45:00-CME-001"
+              ]
+            }
+          ]
         }
       ],
       "linkedEvents": null,
