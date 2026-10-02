@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T05:25:40.770266+00:00",
+  "updated_at": "2026-10-02T05:13:38.420042+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -9,7 +9,7 @@
       "icon": "🚀",
       "agency": "Canadian Space Agency, National Aeronautics and Space Administration, Russian Federal Space Agency (ROSCOSMOS)",
       "launch_date": "2026-10-01T15:10:06Z",
-      "status": "Go for Launch",
+      "status": "Launch Successful",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/18441371-8b2e-457c-afb5-1ec1b11ab630/"
     },
     {
@@ -26,7 +26,7 @@
       "description": "애스트로보틱의 그리핀 달 착륙선과 엔진을 검증하는 임무입니다. 아스트로랩의 달 탐사 로버 FLIP를 탑재할 예정입니다.",
       "icon": "🌕",
       "agency": "Astrobotic Technology",
-      "launch_date": "2026-11-30T00:00:00Z",
+      "launch_date": "2026-12-31T00:00:00Z",
       "status": "To Be Determined",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/"
     },
