@@ -1,17 +1,8 @@
 {
-  "updated_at": "2026-10-02T05:13:38.420042+00:00",
+  "updated_at": "2026-10-03T04:56:26.363420+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
-    {
-      "name": "크루-13",
-      "description": "NASA 상업 유인 프로그램의 일환으로 크루 드래곤 우주선을 국제우주정거장으로 보내는 13번째 정규 유인 비행입니다.",
-      "icon": "🚀",
-      "agency": "Canadian Space Agency, National Aeronautics and Space Administration, Russian Federal Space Agency (ROSCOSMOS)",
-      "launch_date": "2026-10-01T15:10:06Z",
-      "status": "Launch Successful",
-      "url": "https://ll.thespacedevs.com/2.3.0/launches/18441371-8b2e-457c-afb5-1ec1b11ab630/"
-    },
     {
       "name": "화성 위성 탐사선(MMX)",
       "description": "일본의 과학 탐사 임무로, 화성의 위성 포보스에 착륙해 시료를 채취하고 지구로 가져오는 것을 목표로 합니다. 프랑스·독일의 소형 로버도 탑재됩니다.",
