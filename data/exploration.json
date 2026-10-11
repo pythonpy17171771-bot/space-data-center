@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-10T05:27:36.327907+00:00",
+  "updated_at": "2026-10-11T05:21:32.533168+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
     {
-      "name": "화성 위성 탐사선(MMX)",
-      "description": "일본의 과학 탐사 임무로, 화성의 위성 포보스에 착륙해 시료를 채취하고 지구로 가져오는 것을 목표로 합니다. 프랑스·독일의 소형 로버도 탑재됩니다.",
+      "name": "Martian Moons eXploration (MMX)",
+      "description": "MMX is a Japanese scientific mission to land on Phobos, one of the two moons of Mars, to collect samples before bringing them back to Earth.\r\n\r\nThe mission includes a small French/German rover to explore the surface of Phobos.",
       "icon": "🌕",
       "agency": "기관 정보 없음",
       "launch_date": "2026-10-19T19:41:03Z",
