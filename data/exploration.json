@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T04:07:09.789814+00:00",
+  "updated_at": "2026-10-20T04:27:47.229056+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -9,8 +9,17 @@
       "icon": "🌕",
       "agency": "Japan Aerospace Exploration Agency",
       "launch_date": "2026-10-19T19:41:03Z",
-      "status": "Go for Launch",
+      "status": "Launch Successful",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/"
+    },
+    {
+      "name": "선저우 24",
+      "description": "중국 선저우 유인우주선 프로그램의 24번째 비행 임무입니다.",
+      "icon": "🚀",
+      "agency": "China National Space Administration",
+      "launch_date": "2026-12-31T00:00:00Z",
+      "status": "To Be Determined",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/"
     },
     {
       "name": "그리핀 미션 1",
@@ -29,15 +38,6 @@
       "launch_date": "2026-12-31T00:00:00Z",
       "status": "To Be Determined",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/b97a54e5-5c6f-4f85-bcf3-69da17fa9682/"
-    },
-    {
-      "name": "선저우 24",
-      "description": "중국 선저우 유인우주선 프로그램의 24번째 비행 임무입니다.",
-      "icon": "🚀",
-      "agency": "China National Space Administration",
-      "launch_date": "2026-12-31T00:00:00Z",
-      "status": "To Be Determined",
-      "url": "https://ll.thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/"
     },
     {
       "name": "Lunar Polar Exploration Mission (LUPEX)",
