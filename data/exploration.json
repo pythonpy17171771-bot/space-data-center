@@ -1,17 +1,8 @@
 {
-  "updated_at": "2026-10-20T04:27:47.229056+00:00",
+  "updated_at": "2026-10-21T04:18:51.144358+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
-    {
-      "name": "Martian Moons eXploration (MMX)",
-      "description": "MMX is a Japanese scientific mission to land on Phobos, one of the two moons of Mars, to collect samples before bringing them back to Earth.\r\n\r\nThe mission includes a small French/German rover to explore the surface of Phobos.",
-      "icon": "🌕",
-      "agency": "Japan Aerospace Exploration Agency",
-      "launch_date": "2026-10-19T19:41:03Z",
-      "status": "Launch Successful",
-      "url": "https://ll.thespacedevs.com/2.3.0/launches/69ebbcd2-b257-4070-9ef9-21e7d1f8a883/"
-    },
     {
       "name": "선저우 24",
       "description": "중국 선저우 유인우주선 프로그램의 24번째 비행 임무입니다.",
