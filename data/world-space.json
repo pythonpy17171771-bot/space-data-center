@@ -308,7 +308,7 @@
       "data": [
         {
           "year": 2010,
-          "value_original": 319531.2885,
+          "value_original": 319531.28848,
           "currency": "KRW",
           "value_usd_million": 209.56,
           "exchange_rate_date": "2026-03-31",
@@ -324,7 +324,7 @@
         },
         {
           "year": 2012,
-          "value_original": 295291.3372,
+          "value_original": 295291.33718,
           "currency": "KRW",
           "value_usd_million": 193.66,
           "exchange_rate_date": "2026-03-31",
@@ -332,7 +332,7 @@
         },
         {
           "year": 2013,
-          "value_original": 382621.7967,
+          "value_original": 382621.79673,
           "currency": "KRW",
           "value_usd_million": 250.93,
           "exchange_rate_date": "2026-03-31",
@@ -340,7 +340,7 @@
         },
         {
           "year": 2014,
-          "value_original": 448170.4786,
+          "value_original": 448170.47859,
           "currency": "KRW",
           "value_usd_million": 293.92,
           "exchange_rate_date": "2026-03-31",
@@ -356,7 +356,7 @@
         },
         {
           "year": 2016,
-          "value_original": 544379.2387,
+          "value_original": 544379.238722,
           "currency": "KRW",
           "value_usd_million": 357.02,
           "exchange_rate_date": "2026-03-31",
@@ -364,7 +364,7 @@
         },
         {
           "year": 2017,
-          "value_original": 512172.2625,
+          "value_original": 512172.262472,
           "currency": "KRW",
           "value_usd_million": 335.89,
           "exchange_rate_date": "2026-03-31",
@@ -372,7 +372,7 @@
         },
         {
           "year": 2018,
-          "value_original": 434730.1399,
+          "value_original": 434730.139887,
           "currency": "KRW",
           "value_usd_million": 285.11,
           "exchange_rate_date": "2026-03-31",
@@ -380,7 +380,7 @@
         },
         {
           "year": 2019,
-          "value_original": 383246.7773,
+          "value_original": 383246.777332,
           "currency": "KRW",
           "value_usd_million": 251.34,
           "exchange_rate_date": "2026-03-31",
@@ -388,7 +388,7 @@
         },
         {
           "year": 2020,
-          "value_original": 400389.6144,
+          "value_original": 400389.614384,
           "currency": "KRW",
           "value_usd_million": 262.58,
           "exchange_rate_date": "2026-03-31",
@@ -396,7 +396,7 @@
         },
         {
           "year": 2021,
-          "value_original": 433427.0929,
+          "value_original": 433427.09292,
           "currency": "KRW",
           "value_usd_million": 284.25,
           "exchange_rate_date": "2026-03-31",
@@ -404,7 +404,7 @@
         },
         {
           "year": 2022,
-          "value_original": 576213.8705,
+          "value_original": 576213.870466,
           "currency": "KRW",
           "value_usd_million": 377.89,
           "exchange_rate_date": "2026-03-31",
@@ -412,7 +412,7 @@
         },
         {
           "year": 2023,
-          "value_original": 752922.5324,
+          "value_original": 752922.532406,
           "currency": "KRW",
           "value_usd_million": 493.78,
           "exchange_rate_date": "2026-03-31",
@@ -420,7 +420,7 @@
         },
         {
           "year": 2024,
-          "value_original": 879992.3066,
+          "value_original": 879992.306551,
           "currency": "KRW",
           "value_usd_million": 577.12,
           "exchange_rate_date": "2026-03-31",
@@ -539,17 +539,25 @@
         },
         {
           "year": 2023,
-          "value_original": 1793.81,
+          "value_original": 1793.84,
           "currency": "EUR",
-          "value_usd_million": 2062.52,
+          "value_usd_million": 2062.56,
           "exchange_rate_date": "2026-03-31",
           "exchange_rate": 1.0
         },
         {
           "year": 2024,
-          "value_original": 1865.62514,
+          "value_original": 1858.63,
           "currency": "EUR",
-          "value_usd_million": 2145.1,
+          "value_usd_million": 2137.05,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2025,
+          "value_original": 1773.16,
+          "currency": "EUR",
+          "value_usd_million": 2038.78,
           "exchange_rate_date": "2026-03-31",
           "exchange_rate": 1.0
         }
@@ -666,17 +674,25 @@
         },
         {
           "year": 2023,
-          "value_original": 2284.33,
+          "value_original": 2266.59,
           "currency": "EUR",
-          "value_usd_million": 2626.52,
+          "value_usd_million": 2606.13,
           "exchange_rate_date": "2026-03-31",
           "exchange_rate": 1.0
         },
         {
           "year": 2024,
-          "value_original": 2456.221681,
+          "value_original": 2383.42,
           "currency": "EUR",
-          "value_usd_million": 2824.16,
+          "value_usd_million": 2740.46,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 1.0
+        },
+        {
+          "year": 2025,
+          "value_original": 2333.95,
+          "currency": "EUR",
+          "value_usd_million": 2683.58,
           "exchange_rate_date": "2026-03-31",
           "exchange_rate": 1.0
         }
@@ -796,6 +812,14 @@
           "value_original": 365.58,
           "currency": "GBP",
           "value_usd_million": 484.08,
+          "exchange_rate_date": "2026-03-31",
+          "exchange_rate": 0.86833
+        },
+        {
+          "year": 2024,
+          "value_original": 318.78,
+          "currency": "GBP",
+          "value_usd_million": 422.11,
           "exchange_rate_date": "2026-03-31",
           "exchange_rate": 0.86833
         }
