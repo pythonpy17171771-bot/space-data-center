@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T05:07:47.027551+00:00",
+  "updated_at": "2026-11-01T05:38:44.533321+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -11,15 +11,6 @@
       "launch_date": "2026-11-25T00:00:00Z",
       "status": "To Be Determined",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/"
-    },
-    {
-      "name": "그리핀 미션 1",
-      "description": "애스트로보틱의 그리핀 달 착륙선과 엔진을 검증하는 임무입니다. 아스트로랩의 달 탐사 로버 FLIP를 탑재할 예정입니다.",
-      "icon": "🌕",
-      "agency": "Voyager Technologies",
-      "launch_date": "2026-12-31T00:00:00Z",
-      "status": "To Be Determined",
-      "url": "https://ll.thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/"
     },
     {
       "name": "화성 착륙선",
