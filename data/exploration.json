@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T05:49:45.623613+00:00",
+  "updated_at": "2026-11-10T06:55:58.634641+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -20,6 +20,15 @@
       "launch_date": "2026-12-31T00:00:00Z",
       "status": "To Be Determined",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/b97a54e5-5c6f-4f85-bcf3-69da17fa9682/"
+    },
+    {
+      "name": "그리핀 미션 1",
+      "description": "애스트로보틱의 그리핀 달 착륙선과 엔진을 검증하는 임무입니다. 아스트로랩의 달 탐사 로버 FLIP를 탑재할 예정입니다.",
+      "icon": "🌕",
+      "agency": "Voyager Technologies",
+      "launch_date": "2027-01-06T00:00:00Z",
+      "status": "To Be Determined",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67/"
     },
     {
       "name": "스타라이너-1",
