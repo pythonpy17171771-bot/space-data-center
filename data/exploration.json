@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T05:46:29.859343+00:00",
+  "updated_at": "2026-11-12T06:52:02.005676+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -38,6 +38,15 @@
       "launch_date": "2027-01-14T00:00:00Z",
       "status": "To Be Determined",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/07e945c1-2ec6-4d29-a500-1afbe920440f/"
+    },
+    {
+      "name": "Aspera",
+      "description": "Aspera houses an ultraviolet telescope and will examine hot gas in the  intergalactic medium, thought to be contributing to the birth of stars and planets. Aspera will be the first NASA astrophysics mission to gather and map these ultraviolet light signatures, potentially unlocking a deeper understanding of the origins of stars, planets, and life in the universe.",
+      "icon": "🔭",
+      "agency": "National Aeronautics and Space Administration",
+      "launch_date": "2027-01-29T00:00:00Z",
+      "status": "To Be Determined",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/0d6ad64c-3aed-4041-b095-e1d951bc6d29/"
     }
   ]
 }
