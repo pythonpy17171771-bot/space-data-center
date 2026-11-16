@@ -1,24 +1,41 @@
 {
-  "updated_at": "2026-11-15T05:57:13.598721",
-  "date": "2026-11-15",
-  "count": 1,
+  "updated_at": "2026-11-16T05:56:57.514063",
+  "date": "2026-11-16",
+  "count": 2,
   "objects": [
     {
-      "id": "3841634",
-      "name": "(2019 HW3)",
-      "reference_id": "3841634",
-      "date": "2026-11-15",
-      "approach_time": "2026-Nov-15 02:19",
-      "distance_km": 18114578.869055044,
-      "distance_au": 0.1210884812,
-      "distance_lunar": 47.1034191868,
-      "velocity_km_s": 8.8631491928,
-      "velocity_km_h": 31907.337094012,
-      "diameter_min_m": 26.58,
-      "diameter_max_m": 59.4346868419,
+      "id": "3303213",
+      "name": "(2005 WD)",
+      "reference_id": "3303213",
+      "date": "2026-11-16",
+      "approach_time": "2026-Nov-16 14:20",
+      "distance_km": 19492290.20536595,
+      "distance_au": 0.1302979127,
+      "distance_lunar": 50.6858880403,
+      "velocity_km_s": 18.174626749,
+      "velocity_km_h": 65428.6562963953,
+      "diameter_min_m": 109.2835958696,
+      "diameter_max_m": 244.36554919,
+      "hazardous": true,
+      "sentry": false,
+      "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3303213"
+    },
+    {
+      "id": "3841677",
+      "name": "(2019 HK4)",
+      "reference_id": "3841677",
+      "date": "2026-11-16",
+      "approach_time": "2026-Nov-16 01:48",
+      "distance_km": 21212581.72612173,
+      "distance_au": 0.1417973513,
+      "distance_lunar": 55.1591696557,
+      "velocity_km_s": 22.0686478148,
+      "velocity_km_h": 79447.1321331223,
+      "diameter_min_m": 146.0679642714,
+      "diameter_max_m": 326.6178974458,
       "hazardous": false,
       "sentry": false,
-      "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3841634"
+      "nasa_jpl_url": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3841677"
     }
   ]
 }
