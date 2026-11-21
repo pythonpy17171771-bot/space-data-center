@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T06:51:19.034651+00:00",
+  "updated_at": "2026-11-21T06:45:35.095161+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -8,8 +8,8 @@
       "description": "중국 선저우 유인우주선 프로그램의 24번째 비행 임무입니다.",
       "icon": "🚀",
       "agency": "China National Space Administration",
-      "launch_date": "2026-11-25T00:00:00Z",
-      "status": "To Be Determined",
+      "launch_date": "2026-11-25T00:18:00Z",
+      "status": "Go for Launch",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/c9605b67-8a53-4239-a8ae-577fe3b79799/"
     },
     {
