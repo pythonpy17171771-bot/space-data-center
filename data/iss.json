@@ -1,9 +1,9 @@
 {
-    "latitude": 47.645208460402,
-    "longitude": 140.84624687705,
-    "altitude": 418.48671598836,
-    "velocity": 27607.427877813,
-    "visibility": "daylight",
-    "timestamp": "2026-11-21T06:45:03.837481+00:00",
+    "latitude": 34.704789643488,
+    "longitude": -130.07663770706,
+    "altitude": 419.57343505879,
+    "velocity": 27592.423126711,
+    "visibility": "eclipsed",
+    "timestamp": "2026-11-22T06:14:28.596051+00:00",
     "source": "https://api.wheretheiss.at/v1/satellites/25544"
 }
