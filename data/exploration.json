@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T07:54:07.162678+00:00",
+  "updated_at": "2026-11-28T07:23:20.932549+00:00",
   "source": "Launch Library 2 / The Space Devs",
   "source_url": "https://ll.thespacedevs.com/docs/",
   "missions": [
@@ -58,15 +58,6 @@
       "url": "https://ll.thespacedevs.com/2.3.0/launches/eda0f3bb-3a5e-438f-bdba-9dab2a86c281/"
     },
     {
-      "name": "PLATO",
-      "description": "Plato, for PLAnetary Transits and Oscillations of stars, is a European Space Agency (ESA) mission with 26 cameras to study terrestrial exoplanets in orbits up to the habitable zone of Sun-like stars. Its goal is to measure the sizes of exoplanets and discover exomoons and rings around them, as well as characterise planets' host stars by studying tiny light variations in the starlight it receives.",
-      "icon": "🌕",
-      "agency": "European Space Agency",
-      "launch_date": "2027-03-31T00:00:00Z",
-      "status": "To Be Determined",
-      "url": "https://ll.thespacedevs.com/2.3.0/launches/526b4a0f-f0c9-4a20-9066-e9fc8c79307b/"
-    },
-    {
       "name": "Haven-1",
       "description": "Commercial space station developed by Vast",
       "icon": "🚀",
@@ -74,6 +65,15 @@
       "launch_date": "2027-03-31T00:00:00Z",
       "status": "To Be Determined",
       "url": "https://ll.thespacedevs.com/2.3.0/launches/4cc61288-6f94-41de-8fd5-7fe4d72aedfb/"
+    },
+    {
+      "name": "PLATO",
+      "description": "Plato, for PLAnetary Transits and Oscillations of stars, is a European Space Agency (ESA) mission with 26 cameras to study terrestrial exoplanets in orbits up to the habitable zone of Sun-like stars. Its goal is to measure the sizes of exoplanets and discover exomoons and rings around them, as well as characterise planets' host stars by studying tiny light variations in the starlight it receives.",
+      "icon": "🌕",
+      "agency": "European Space Agency",
+      "launch_date": "2027-03-31T00:00:00Z",
+      "status": "To Be Determined",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/526b4a0f-f0c9-4a20-9066-e9fc8c79307b/"
     }
   ]
 }
